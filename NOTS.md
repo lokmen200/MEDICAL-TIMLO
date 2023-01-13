@@ -1,0 +1,41 @@
+# EMBRYOLOGIE
+- [x] Ovulation et structure de l'ovocyte
+- [x] Première semaine de développement embryonnaire
+- [x] Deuxième semaine de développement embryonnaire
+- [x] Troisième semaine de développement embryonnaire
+- [ ] Quatrième semaine de développement embryonnaire
+- [ ] Les annexes embryonnaires
+- [ ] Les cellules souches
+# BIOCHIMIE
+- [x] La Glycolyse
+- [x] Le cycle de Krebs
+- [x] La Neoglucogenese
+- [x] La voie des pentoses phosphate
+- [ ] Métabolisme du Glycogène
+- [ ] Les Acides aminé - structures et propriétés
+- [ ] Les protides et les protéines - structures et propriétés
+- [ ] Détermination de la structure des acides aminés
+- [ ] Les acides aminés - métabolisme
+- [ ] Enzymologie
+# ANATOMIE 
+- [x] Le système musculaire
+- [ ] Muscle de l'épaule et du bras
+- [ ] Les muscles de l'avant bras
+- [ ] Les muscles de la main
+- [ ] Vascularisation du membre supérieur "Artère axillaire"
+- [ ] Artère brachiale
+# CYTOLOGIE
+- [x] Méthodes d'études de la cellule
+- [x] La membrane plasmique  Structure
+- [ ] Les specialisations morphologiques de la membrane plasmique
+- [ ] Les molécules d'adhérence cellulaire
+- [ ] Les transports membranaires
+- [ ] Hyaloplasme et Cytosquelette
+- [ ] Communication intercellulaire
+# BIOSTAT
+- [ ] Statistiques descriptives
+- [ ] Loi binomiale et loi normale
+- [ ] Probabilités
+# BIOPHYSIQUE
+- [ ] Electricite et bioélectricité
+- [x] Biophysique des solutions et applications médicales
