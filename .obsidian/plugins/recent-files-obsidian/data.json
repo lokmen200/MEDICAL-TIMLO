@@ -5,6 +5,14 @@
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md"
     },
     {
+      "basename": "L'ARTICULATION DU L'EPAULE",
+      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/L'ARTICULATION DU L'EPAULE.md"
+    },
+    {
+      "basename": "CLAVICULE",
+      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md"
+    },
+    {
       "basename": "muscle epaule",
       "path": "PDF/muscle epaule.pdf"
     },
@@ -105,10 +113,6 @@
       "path": "Med/CHIMIE/TD 01.md"
     },
     {
-      "basename": "L'ARTICULATION DU L'EPAULE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/L'ARTICULATION DU L'EPAULE.md"
-    },
-    {
       "basename": "ARTICULATION DU COUDE",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "ULNA",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md"
-    },
-    {
-      "basename": "CLAVICULE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md"
     },
     {
       "basename": "OVOGÉNÈSE",

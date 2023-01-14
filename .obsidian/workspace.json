@@ -6,6 +6,7 @@
       {
         "id": "1aa3c552aae0b3b9",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "9ba2284a07f59d7a",
@@ -18,12 +19,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e96e59756530e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
         "id": "ab6233a298872cda",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "afd36404f6c74595",
@@ -64,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NB",
+                "query": "sus épineux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,17 +218,17 @@
       "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "74f12a1f6ca8e4af",
+  "active": "9ba2284a07f59d7a",
   "lastOpenFiles": [
-    "PDF/muscle epaule.pdf",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/L'ARTICULATION DU L'EPAULE.md",
     "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md",
+    "PDF/muscle epaule.pdf",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
     "PDF/Les propriétés Optique des solutions Prof TD.pdf",
     "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
     "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/2EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md"
   ]
 }
