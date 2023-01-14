@@ -1,0 +1,14 @@
+---
+Date created : 2023-01-13
+Date of last modefiction : Friday 13th January 2023 21:56
+Module : BIOPHYSIQUE
+Cour : LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS (PROF TD)
+Present dans le coure : YES
+Étudiée : YES
+tag: BIOPHYSIQUE SOLUTION 
+CREATED: YES
+cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS(PROF TD)
+---
+```toc
+```
+

@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5110321044922,
-    "collapsed": true
+    "width": 258.5110321044922
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -187,7 +186,7 @@
       "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "9ba2284a07f59d7a",
+  "active": "03ad2e8b1172188e",
   "lastOpenFiles": [
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
     "PDF/Les propriétés Optique des solutions Prof TD.pdf",

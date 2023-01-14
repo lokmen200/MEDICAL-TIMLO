@@ -1,0 +1,16 @@
+---
+Date created : 2022-12-26
+Date of last modefiction : Saturday 24th December 2022 17:11
+Module : CYTOLOGIE
+Cour : LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE
+Present dans le coure : YES
+Étudiée : NO
+tag: CYTOLOGIE
+CREATED: NO
+cards-deck: CYTOLOGIE::LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE
+---
+```toc
+```
+```toc
+```
+
