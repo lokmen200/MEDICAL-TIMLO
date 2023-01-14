@@ -96,3 +96,9 @@ Petit rond : adducteur et rotateur externe du bras
 - nait de la fosse sous-épineux et se termine sur le trochiter en arriére du sous-épineux. Son action est la rotaion externe de l'humérus 
 ![[Pasted image 20230114125807.png]]
 ^1673697491662
+
+# Les éléments du conflit 
+- La voute acromiale qui est avex le ligament acromio-coracoidien le plafond du tunnel dans lequel pass 
+- La coiffe des rotateurs constituée du sus-épineux du sois -épineux et du petit rond dont les insertions sur le torchiter ne sont pas indivualisables . Elle est séparée de l'acromio et du ligament acromio-coracoidien par 
+	- <mark style="background: #FFF3A3A6;">la bourse sous-acromiale</mark> qui ne communique pas avec l'articulation gléno-humérale .Elle sépare la coiffe de l'acromion avex en avant de la tete humérale 
+	- <mark style="background: #FFF3A3A6;">Le tendon du long biceps</mark> qui passe entre trochiter et trochin ou s'insére le sous-scaspulaire

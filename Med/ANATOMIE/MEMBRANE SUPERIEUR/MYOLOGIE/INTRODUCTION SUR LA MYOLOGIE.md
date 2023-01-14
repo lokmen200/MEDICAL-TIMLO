@@ -33,6 +33,11 @@ cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::INTRODUCTION SUR LA MYOLOGIE
 - À cellules striées
 - À contraction volontaire et rapide
 - Se fatigue rapidement 
+- Chaque muscle striée comprend :
+	- Une partie centrale charnue, le corps musculaire(1)
+	- Un ou plusieurs tendons fibreux qui relient les deux(2)
+	![[Pasted image 20230114203024.png]]
+extrémités de la partie charnue à un os
 - Ex: muscles des membres 
 ## Muscle lisse
 - Ou viscéral 
