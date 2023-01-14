@@ -1,1 +1,15 @@
-{}
+{
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Med/CYTOLOGIE/IMAGES/",
+    "Med/EMBROYLOGIE/IMAGES/",
+    "Med/ANATOMIE/OSTÉOLOGIE/IMAGES/"
+  ],
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./IMAGES",
+  "readableLineLength": true,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": true
+}

@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "e864e159e4136789",
+    "id": "b1ec3f84d750045c",
     "type": "split",
     "children": [
       {
-        "id": "6b6b4bdfe586e835",
+        "id": "1aa3c552aae0b3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c45519856c085f",
+            "id": "9ba2284a07f59d7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67df3aa468686fb9",
+    "id": "4aa1b84c29d645b9",
     "type": "split",
     "children": [
       {
-        "id": "e43784c605ef3ce7",
+        "id": "48705f256baf22ba",
         "type": "tabs",
         "children": [
           {
-            "id": "2486c2d37f7131b5",
+            "id": "03ad2e8b1172188e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,25 +43,41 @@
             }
           },
           {
-            "id": "fa8d5e0917064eef",
+            "id": "645fcb734e5abd9c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NB",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "98b799132b7d7cf9",
+            "id": "a1ec6348bdf2b6bb",
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0206e83d9e7999d7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "429179bd656e0b25",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,22 +85,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5110321044922,
+    "collapsed": true
   },
   "right": {
-    "id": "d34dabc987e66925",
+    "id": "f0712f55dcc6e13f",
     "type": "split",
     "children": [
       {
-        "id": "0652c61f7129f22e",
+        "id": "28c2ba8c84c07250",
         "type": "tabs",
         "children": [
           {
-            "id": "a013e9f878a7bb8c",
+            "id": "224022984a53b0f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +114,19 @@
             }
           },
           {
-            "id": "87e04e7e4b0aa86b",
+            "id": "f7a47b872379c5dc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1a519d7d69d865f5",
+            "id": "656a4d2ee16d01a6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,30 +137,67 @@
             }
           },
           {
-            "id": "ac0f5ee2ac576b47",
+            "id": "72ff77613d1931e8",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md"
+              }
+            }
+          },
+          {
+            "id": "74f12a1f6ca8e4af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f50b8d7a4adbcdf1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 568.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "f4c45519856c085f",
-  "lastOpenFiles": []
+  "active": "9ba2284a07f59d7a",
+  "lastOpenFiles": [
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
+    "PDF/Les propriétés Optique des solutions Prof TD.pdf",
+    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/2EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
+    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+    "Created PDFs/Les Propriétés Colligatives Des Solutions Prof TD.pdf",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/IMAGES/Pasted image 20230113150423.png"
+  ]
 }
