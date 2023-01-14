@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "ab6233a298872cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd36404f6c74595",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/muscle epaule.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5110321044922
+    "width": 258.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -166,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 568.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +203,10 @@
       "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "03ad2e8b1172188e",
+  "active": "9ba2284a07f59d7a",
   "lastOpenFiles": [
+    "PDF/muscle epaule.pdf",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
     "PDF/Les propriétés Optique des solutions Prof TD.pdf",
     "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
@@ -194,8 +214,6 @@
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
-    "Created PDFs/Les Propriétés Colligatives Des Solutions Prof TD.pdf",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/IMAGES/Pasted image 20230113150423.png"
+    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
   ]
 }

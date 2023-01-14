@@ -5,6 +5,10 @@
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md"
     },
     {
+      "basename": "muscle epaule",
+      "path": "PDF/muscle epaule.pdf"
+    },
+    {
       "basename": "LES SOLUTION",
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BIOCHIMIE HELP",
       "path": "Med/BIOCHIMIE/BIOCHIMIE HELP.md"
-    },
-    {
-      "basename": "Le Glycogène",
-      "path": "Created PDFs/Le Glycogène.pdf"
     }
   ],
   "omittedPaths": [],
