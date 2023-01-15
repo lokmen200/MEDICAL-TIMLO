@@ -9,8 +9,9 @@ tag: ANATOMIE OSTÉOLOGIE
 CREATED: YES
 cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::OSTÉOLOGIE::HUMÉRUS
 ---
+```toc
+```
 
-----
 ## Définition et situation 
 #card
 - C'est un <mark style="background: #FF5582A6;">os long</mark> forme a lui seul le squelette du bras s'articule en haut avec le [[SCAPULA#la cavité glénoïdale|la cavité glénoïdale]] et en bas avec les os du #AVANT-BRAS  ([[RADIUS|Radius]] et [[ULNA|Ulna]])

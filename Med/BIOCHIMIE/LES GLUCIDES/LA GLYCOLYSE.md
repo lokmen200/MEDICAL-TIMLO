@@ -95,9 +95,8 @@ flowchart TD
 	- Les deux molécules de glycéraldéhyde 3P sont oxydés et convertis en pyruvate avec formation de 4 molécules d’ATP
 	- un gain net est de 2 molécules d’ATP.
 ^1672577194053
-
 ### Phase d’investissement énergétique
-#card 
+#card
 ![[Pasted image 20221121194346.png]]
 1 Glucose (C6) +2 ATP ====> 2 G3P +  2 ADP
 #### Activation du Glucose    
