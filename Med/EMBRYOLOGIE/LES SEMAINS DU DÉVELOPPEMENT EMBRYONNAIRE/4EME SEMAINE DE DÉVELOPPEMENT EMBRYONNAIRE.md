@@ -133,6 +133,7 @@ cards-deck: EMBRYOLOGIE::LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE::4EME SEMAIN
 - Les membres supérieurs apparaissent d’abord, à hauteur des somites correspondant aux futurs niveaux des vertèbres Cervicale4 à Thoracique2.
 - Les membres inférieurs apparaissent un peu plus tard, à hauteur des somites correspondant aux futurs niveaux des vertèbres Lombaire1 à Sacrée4.
 ![[Pasted image 20230114215636.png]]
+![[Pasted image 20230114214623.png]]
 ^1673729983860
 
 # Conclusion

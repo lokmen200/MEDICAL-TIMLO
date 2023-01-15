@@ -1,7 +1,14 @@
 ---
-Module: BIOCHIMIE
-Present dans le coure: NO
-Étudiée: YES
+
+Date created : 2023-01-15
+Date of last modefiction : Friday 6th January 2023 20:13
+Module : BIOCHIMIE
+Cour : LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS
+Present dans le coure : YES
+Étudiée : NO
+tag: BIOCHIMIE PROTÉINES
+CREATED: YES
+cards-deck: BIOCHIMIE::PROTÉINES::LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS
 ---
 ```toc
 ```
@@ -97,17 +104,14 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
 
 # Propriétés physico chimiques des acides aminés
 ## Propriétés physiques 
-### Solubilité
 #card
+### Solubilité
 - Les AA sont solubles dans l’eau : Les plus solubles sont les plus petit <mark style="background: #ADCCFFA6;">(glycocolle)</mark> ou ceux qui portent des radicaux mouillables comme <mark style="background: #D2B3FFA6;">NH2, COOH ou OH (sérine)</mark>.
 - Les acides aminés à long chaine carbonée sont peu solubles dans l’eau.
 - Les Aa sont faiblement solubles dans l’alcool.
 - La solubilité dans les solvants apolaires dépend de la chaine latérale
 - En présence de deux phases liquides (éthanol/eau), les aminoacides se répartissent dans les deux phases avec des coefficients de partage spécifique : cette propriété est utilisée pour les classer.
-^1670748403316
-
 ### Stéréochimie des acides α aminés
-#card
 - Les acides aminés comprennent tous, 1 ou 2 carbones asymétriques: ce sont des molécules chirales, à l’exception de <mark style="background: #ADCCFFA6;">la glycine</mark>.
 - L’atome de carbone asymétriques appelé centre de la chiralité est lié à quatre substituant différents donc substitué asymétriquement
 - Il existe 2 stéréo-isomères de configurations différentes <mark style="background: #FFF3A3A6;">D-acide aminé et L-acide aminé</mark>
@@ -126,14 +130,11 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
 - Des isomères qui ont le même enchaînement d'atomes, mais qui ne sont ni superposables, ni l’image l'une de l'autre dans un miroir sont des <mark style="background: #FFF3A3A6;">diastéroisomères</mark> . 
 - Des isomères qui diffèrent par un seul des centres asymétriques sont des épiméres(<mark style="background: #FFF3A3A6;">diastéréoisomères</mark>)
 ### Pouvoir rotatoire des AA
-#card 
 - Les énantiomères possèdent une activité optique:
 - C’est la propriété de dévier la lumière polarisée. 
 - Placés dans le faisceau d’une lumière polarisée plane, ils provoquent la rotation du plan de polarisat
 - Si la rotation s’effectue dans <mark style="background: #FFF3A3A6;">le sens des aiguilles</mark> d’une montre, on dit que la molécule est <mark style="background: #FFF3A3A6;">dextrogyre(+)</mark>
 - Si la rotation s’effectue dans <mark style="background: #FFF3A3A6;">le sens inverse des aiguilles</mark> d’une montre, on dit que la molécule est <mark style="background: #FFF3A3A6;">lévogyre(-)</mark>
-^1670748403378
-
 ### Propriétés ioniques
 (ou Propriétés acido basique des acides aminés)
 - Les aminoacides possèdent deux groupements ionisables à pH convenable
@@ -178,6 +179,13 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
 ![[Pasted image 20221210141452.png]]
 #### Calcul PHi
 ![[Pasted image 20221210141636.png]]
+### Propriétés spectrales
+(Coloration et absorption de la lumière)
+- Les solutions d’AA sont incolores, mais sont visibles en UV: λ < 230 nm.
+- Les AA aromatiques absorbent vers 280nm.
+- Utile pour repérer la présence de protéines.
+![[Pasted image 20221210142115.png]]
+^1670748403316
 
 ### Récapitulatif du Propriétés ioniques
 #card 
@@ -190,18 +198,10 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
 - Pour les acides aminés acides, le pHi va de 2,7
 ^1670748403452
 
-### Propriétés spectrales
-(Coloration et absorption de la lumière)
-#card 
-- Les solutions d’AA sont incolores, mais sont visibles en UV: λ < 230 nm.
-- Les AA aromatiques absorbent vers 280nm.
-- Utile pour repérer la présence de protéines.
-![[Pasted image 20221210142115.png]]
-^1670748403481
 
 ## Propriétés chimiques
-### Propriétés de la fonction carboxylique
 #card 
+### Propriétés de la fonction carboxylique
 #### Estérification par un alcool
 - en présence d’un acide fort
 - Réaction utilisée pour séparer les aminoacides en phase gazeuse (et même en phase liquide) en produisant des dérivés esters butyliques
@@ -217,10 +217,7 @@ synthèse d’amine (ex : histamine)
 	- <mark style="background: #FFF3A3A6;">Histidine</mark> donne l’histamine (vasodilatateur intervenant dans les réactions d'allergie ou d'inflammation) 
 	- <mark style="background: #FFF3A3A6;">Acide glutamique</mark> : donne 4-aminobutanoique ou "GABA" (neurotransmetteur).
 ![[Pasted image 20221210142904.png]]
-^1670748403518
-
 ### Propriétés liées au groupe NH2
-#card
 #### Formation d’imine
 - « <label class="ob-comment" title="" style=""> base de Schiff <input type="checkbox"> <span style="">In organic chemistry, a Schiff base is a compound with the general structure R¹R²C=NR³. They can be considered a sub-class of imines, being either secondary ketimines or secondary aldimines depending on their structure. The term is often synonymous with azomethine which refers specifically to secondary aldimines <img src="./IMAGES/Pasted image 20221210144416.png"></span></label> » : réaction avec aldéhyde: Addition de carbonyle
 - Sauf la proline qui contient une fonction imine
@@ -249,10 +246,7 @@ synthèse d’amine (ex : histamine)
 #### La réaction avec la ninhydrine
 - (++ connue et utilisée) donne un produit violet pour les amines primaires jaune pour les amines secondaires.
 ![[Pasted image 20221210144201.png]]
-^1670748403546
-
 ### Propriétés de la chaine latérale
-#card 
 #### Groupement thiols
 - Oxydation des SH : formation de ponts disulfures La cystéine peut être oxydée en cystine
 ![[Pasted image 20221210152757.png]]
@@ -263,10 +257,11 @@ synthèse d’amine (ex : histamine)
 #### Fonctions amide 
 N-Glycosylation
 ![[Pasted image 20221210152836.png]]
-^1670748403588
+^1670748403518
+
+
 
 # Méthodes d’étude des Acides aminés
-
 ## Méthodes basées sur la solubilité
 #card
 ### Chromatographie sur papier

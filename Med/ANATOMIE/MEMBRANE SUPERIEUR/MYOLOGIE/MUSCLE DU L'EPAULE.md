@@ -35,13 +35,13 @@ cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'EPAULE
 * rotateur externe et interne 
 * il donne le galbe arrondi de l'epaule 
 * il est séparé par une bourse synoviale de la partie profonde de l'épaule 
-- le deltoide et le grand pectoral sont contenus dans la me,e aponévorse
+- le deltoïde et le grand pectoral sont contenus dans la me,e aponévorse
 ![[Pasted image 20230114121857.png]]
 ^1673697491523
 
 ## Groupe musculaire postérieur 
 #card 
-Sus-épineux : abducteur du bras avex le deltoide (SE)
+Sus-épineux : abducteur du bras avex le deltoïde (SE)
 Sous-épineux  : adducteur et rotateur externe du bras (IE)
 Petit rond : adducteur et rotateur externe du bras 
 ![[Pasted image 20230114122206.png]]
@@ -60,7 +60,7 @@ Petit rond : adducteur et rotateur externe du bras
 	- chef cervical supérrieur souléve l'épaule fair pencher la tete de coté extension de la tete et rotation 
 	- chef acomial (ou thoracique supérieur ) rapproche l'omoplate de la colonne inculinaison du rachis 
 	- chef inférieur (ou thoracique inférieur) déviation de la colonne mouvement de sonnette de l'omoplate 
-- le tarpéze est emballé dans la meme aponéverose le deltoide et le grand pectoral 
+- le tarpéze est emballé dans la meme aponéverose le deltoïde et le grand pectoral 
 ![[Pasted image 20230114123127.png]]
 ### Grand Dentele 
 - Il s'étend depuis les neuf premiéres cotes jusqu'aux omoplates 
@@ -84,7 +84,7 @@ Petit rond : adducteur et rotateur externe du bras
 - la coiffe de rotateurs a un role important dans la stabilisation de l'articulation gléno-humérale instable par nature 
 ![[Pasted image 20230114125124.png]]
 ### sus-épineux
-- nait dans la fosse épineuse de l'omoplate donne un tendon qui passe sous la voute formee par l'acromion l'apophyse coracoide et le ligament qui les reunit et se termine sure le trochiter . Son action est l'abduction d bras couplée a celle du deltoide 
+- nait dans la fosse épineuse de l'omoplate donne un tendon qui passe sous la voute formee par l'acromion l'apophyse coracoide et le ligament qui les reunit et se termine sure le trochiter . Son action est l'abduction d bras couplée a celle du deltoïde 
 ![[Pasted image 20230114125055.png]]
 ### sous-épineux 
 - nait la fosse sous-épineuse .Son tendon passe sur la capsule de l'articulation scapulo humérale et se temine sure le trochiter . Son action est la rotaion externe de l'humérus .
