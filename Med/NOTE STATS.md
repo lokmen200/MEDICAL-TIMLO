@@ -1,6 +1,4 @@
 ---
-banner: "![[joyce-mccown-IG96K_HiDk0-unsplash.jpg]]"
-banner_y: 0.52571
 tag :favorite
 ---
 # ALL The Learned Lecture

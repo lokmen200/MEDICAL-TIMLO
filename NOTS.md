@@ -3,7 +3,7 @@
 - [x] Première semaine de développement embryonnaire
 - [x] Deuxième semaine de développement embryonnaire
 - [x] Troisième semaine de développement embryonnaire
-- [ ] Quatrième semaine de développement embryonnaire
+- [x] Quatrième semaine de développement embryonnaire
 - [ ] Les annexes embryonnaires
 - [ ] Les cellules souches
 # BIOCHIMIE
@@ -11,7 +11,7 @@
 - [x] Le cycle de Krebs
 - [x] La Neoglucogenese
 - [x] La voie des pentoses phosphate
-- [ ] Métabolisme du Glycogène
+- [x] Métabolisme du Glycogène
 - [ ] Les Acides aminé - structures et propriétés
 - [ ] Les protides et les protéines - structures et propriétés
 - [ ] Détermination de la structure des acides aminés

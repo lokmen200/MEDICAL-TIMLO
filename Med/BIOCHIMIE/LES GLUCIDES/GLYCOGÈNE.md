@@ -4,7 +4,7 @@ Date of last modefiction : Wednesday 4th January 2023 14:31
 Module : BIOCHIMIE
 Cour : GLYCOGÈNE
 Present dans le coure : NO
-Étudiée : NO
+Étudiée : YES
 tag: BIOCHIMIE 
 CREATED: YES
 cards-deck: BIOCHIMIE::LES GLUCIDES::GLYCOGÈNE

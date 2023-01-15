@@ -1,4 +1,4 @@
-<iframe title="Intermolecular Forces and Boiling Points" src="https://www.youtube.com/embed/08kGgrqaZXA?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>---
+---
 Date created : 2022-12-31
 Date of last modefiction : Saturday 31st December 2022 19:31
 Module : CHIMIE
@@ -12,8 +12,9 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ---
 ```toc
 ```
-https://www.youtube.com/watch?v=08kGgrqaZXA
-https://www.youtube.com/watch?v=qGX95VnN2_A
+[](https://www.youtube.com/watch?v=08kGgrqaZXA)
+[](https://www.youtube.com/watch?v=qGX95VnN2_A)
+[Intermolecular Forces and Boiling Points](https://www.youtube.com/embed/08kGgrqaZXA?feature=oembed)
 # Les liaisons intramoléculaires
 - Les liaisons intramoléculaires (entre atomes) s’ établissent <mark style="background: #FF5582A6;">grâce aux électrons de valence</mark>
 ## La valence des atomes et schéma de Lewis

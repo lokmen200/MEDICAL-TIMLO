@@ -4,7 +4,7 @@ Date of last modefiction : Saturday 24th December 2022 17:11
 Module : CYTOLOGIE
 Cour : MÉTHODES D’ÉTUDES DE LA CELLULE
 Present dans le coure : YES
-Étudiée : NO
+Étudiée : YES
 tag: CYTOLOGIE
 CREATED: YES
 cards-deck: CYTOLOGIE::MÉTHODES D’ÉTUDES DE LA CELLULE

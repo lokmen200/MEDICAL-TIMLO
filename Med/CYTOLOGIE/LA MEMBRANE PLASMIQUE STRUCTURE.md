@@ -4,7 +4,7 @@ Date of last modefiction : Saturday 24th December 2022 17:11
 Module : CYTOLOGIE
 Cour : LA MEMBRANE PLASMIQUE STRUCTURE
 Present dans le coure : NO
-Étudiée : NO
+Étudiée : YES
 tag: CYTOLOGIE
 CREATED: YES
 cards-deck: CYTOLOGIE::LA MEMBRANE PLASMIQUE STRUCTURE

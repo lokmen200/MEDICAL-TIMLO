@@ -4,7 +4,7 @@ Date of last modefiction : Saturday 24th December 2022 17:11
 Module : BIOCHIMIE
 Cour : LA GLYCOLYSE
 Present dans le coure : YES
-Étudiée : NO
+Étudiée : YES
 tag: BIOCHIMIE GLUCIDES
 CREATED: YES
 VIDEO: YES

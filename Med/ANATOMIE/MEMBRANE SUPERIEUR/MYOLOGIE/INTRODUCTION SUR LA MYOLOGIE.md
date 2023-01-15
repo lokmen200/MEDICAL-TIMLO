@@ -4,7 +4,7 @@ Date of last modefiction : Sunday 8th January 2023 23:45
 Module : ANATOMIE
 Cour : INTRODUCTION SUR LA MYOLOGIE
 Present dans le coure : YES
-Étudiée : NO
+Étudiée : YES
 tag: INTRODUCTION MYOLOGIE
 CREATED: YES
 cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::INTRODUCTION SUR LA MYOLOGIE

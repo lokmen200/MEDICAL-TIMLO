@@ -73,7 +73,7 @@ Lysine, arginine et histidine
 ### Non polaire
 - (Non chargées à pH neutre (apolaire ou hydrophobe)
 - <mark style="background: #ADCCFFA6;">Glycolle, alanine, valine, leucine, isoleucine, méthionine, phénylalanine, tryptophane et proline</mark>
-^1670748403170
+
 
 # Les acides aminés essentiels
 #card 
@@ -87,7 +87,6 @@ Lysine, arginine et histidine
 - Dans certaines conditions (grossesse, croissance) <mark style="background: #ADCCFFA6;">l’histidine et l’arginine</mark> deviennent essentielles ; (Arg +++ = chez le Nourrisson)
 ## Les acides aminés qu’on peut appeler semi essentiels
 - <mark style="background: #ADCCFFA6;">Tyrosine et la cystéine</mark> (phénylalanines et la méthionine)
-^1670748403219
 
 # Les acides non α - amines
 #card 
@@ -99,7 +98,7 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
 - Des Aa Impliqués dans des voies métaboliques : <mark style="background: #ADCCFFA6;">méthyl-histidine, homocystéine, acide gamma hydroxybutyrique ,</mark><mark style="background: #ADCCFFA6;">Ornithine et citrulline</mark>
 - <mark style="background: #FFF3A3A6;">Ornithine et citrulline</mark> interviennent dans la synthèse de l’urée, le cycle de l’urée permettant l’élimination de l’azote « toxique » chez l’homme
 ![[Pasted image 20221210120329.png]]
-^1670748403261
+
 
 # Propriétés physico chimiques des acides aminés
 ## Propriétés physiques 
@@ -184,7 +183,7 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
 - Les AA aromatiques absorbent vers 280nm.
 - Utile pour repérer la présence de protéines.
 ![[Pasted image 20221210142115.png]]
-^1670748403316
+
 
 ### Récapitulatif du Propriétés ioniques
 #card 
@@ -195,7 +194,7 @@ Substance qui assure la transmission de l'influx nerveux </span></label>
  - Le pHi pour les acides aminés neutres va de pH 4,8 à 6,3. 
  - Pour les acides aminés basiques, le pHi s’étende de 7,8 à 10,8 
 - Pour les acides aminés acides, le pHi va de 2,7
-^1670748403452
+
 
 
 ## Propriétés chimiques
@@ -256,7 +255,6 @@ synthèse d’amine (ex : histamine)
 #### Fonctions amide 
 N-Glycosylation
 ![[Pasted image 20221210152836.png]]
-^1670748403518
 
 
 
@@ -277,7 +275,6 @@ N-Glycosylation
 ![[Pasted image 20221210153439.png]]
 ![[Pasted image 20221210153448.png]]
 ### Chromatographie en phase gazeuse
-^1670748403630
 
 ## Méthodes basées sur la charge
 #card
@@ -301,7 +298,6 @@ N-Glycosylation
 - La phase stationnaire (colonne) comporte des groupements ionisés (+ ou -) fixes.
 #### La chromatographie d'échange d'ions
 - Les ions retenus au voisinage des charges fixes sont échangeables avec les ions présents dans la phase mobile
-^1670748403690
 
 ## HPLC
 #card 
@@ -314,4 +310,3 @@ Principe
 -  Les pics obtenus sont plus étroits , bien séparés (meilleurs résolution)
 ### HPLC: High Performance liquid chromatography
 ![[Pasted image 20221210154139.png]]
-^1670748403730
