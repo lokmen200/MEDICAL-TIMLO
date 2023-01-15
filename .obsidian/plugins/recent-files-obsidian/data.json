@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "NOTE STATS",
-      "path": "Med/NOTE STATS.md"
-    },
-    {
       "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
       "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
     },
     {
+      "basename": "LES GLUCIDES STRUCTURE ET PROPRIÉTÉS",
+      "path": "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md"
+    },
+    {
       "basename": "HELP BIOCHIMIE",
       "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
+    },
+    {
+      "basename": "NOTE STATS",
+      "path": "Med/NOTE STATS.md"
     },
     {
       "basename": "NOTS",
@@ -195,10 +199,6 @@
     {
       "basename": "INTRODUCTION A L’ANATOMIE HUMAINE",
       "path": "Med/ANATOMIE/GÉNÉRALITÉ/INTRODUCTION A L’ANATOMIE HUMAINE.md"
-    },
-    {
-      "basename": "1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE",
-      "path": "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
     }
   ],
   "omittedPaths": [],
