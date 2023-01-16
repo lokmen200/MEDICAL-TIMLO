@@ -1,5 +1,4 @@
 ---
-
 Date created : 2022-12-26
 Date of last modefiction : Saturday 24th December 2022 17:11
 Module : BIOCHIMIE
@@ -12,6 +11,7 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 ---
 ```toc
 ```
+
 # LES PEPTIDES
 ## Définition de la liaison peptidique, généralités
 #card
@@ -19,36 +19,34 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 - Cette liaison, s’appelle liaison peptidique, permettant la formation d’un dipeptide, etc.… 
 - Un peptide comprend au moins deux résidus d'Aa
 ![[Pasted image 20221210163405.png]]
-^1670838010658
-
 ## Caractéristiques de la liaison peptidique
-#card 
 - La liaison peptidique est une liaison qui a les caractéristiques d’une double liaison partielle, ce qui a trois conséquences <mark style="background: #FF5582A6;">(stable, rigide et plane)</mark>. La distance entre les atomes de C et de N sont plus petite que dans une liaison simple,mais plus grande que dans une vrai double liaison. La libre rotation autour de la liaison C-N est impossible (importance pour la conformation des protéines). 
-- ![[Pasted image 20221210164513.png]]
+![[Pasted image 20221210164513.png]]
 - Les atomes qui participent à cette liaison <mark style="background: #ADCCFFA6;">(les 6 atomes Cα, C, O, N, H et Cα)</mark> se trouvent dans un même plan avec une disposition trans.
 ![[Pasted image 20221210163635.png]]
 ![[Pasted image 20221210164913.png]]
 ![[Pasted image 20221210164936.png]]
-^1670838010799
+^1673860979569
+
 
 ## Mode de représentation d’une séquence peptidique
-#card 
 - La chaîne qui comprend les liaisons amide est appelée la chaîne principale, alors que les substituants, R, constituent les chaînes latérales.
 - Les peptides ont toujours une extrémité amine libre ou extrémité N- terminale, et une extrémité carboxyle libre ou extrémité C- terminale. 
 ![[Pasted image 20221210180255.png]]
-^1670838010885
+
 
 ## Nomenclature Peptides
 #card 
 - La liaison peptidique; permet la formation
 	 - d’un dipeptide avec deux amino-acides,
 	 - tripeptide avec trois,
-- Une chaine de 2 à 10 acides aminés est un oligopeptide (peptides contenant peu d’amino-acides).
+- Une chaine de 2 à 10 acides aminés est un <mark style="background: #FF5582A6;">oligopeptide</mark> (peptides contenant peu d’amino-acides).
 - Des chaines de 10 à 100 acides aminés : polypeptide
 - Les chaines encore plus longues sont désignées comme des protéines (au-delà de 100) Deux ou plusieurs chaînes polypeptidiques peuvent être reliées par des ponts <label class="ob-comment" title="" style=""> disulfure <input type="checkbox"> <span style=""> ثاني كبريتيد </span></label>
 -  Par convention, le nom du peptide commence toujours par la gauche, c'est-à-dire par l'extrémité N terminale, chaque acide aminé étant affecté du suffixe -yl, sauf pour le dernier qui garde son nom complet, sans suffixe. L'adjectif peptidique se rapporte aux peptides et notamment les liaisons des acides aminés qui les constituent. <mark style="background: #ADCCFFA6;">Exp: le leucyl- glycyl- alan</mark>
 ![[Pasted image 20221210180828.png]]
-^1670838011044
+^1673860979830
+
 
 ## Propriétés physiques des Peptides
 #card 
@@ -57,7 +55,8 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 - Ils sont chargés : ils contiennent un groupement NH3+ (N-terminale) et un groupement C00- (C-terminal) et des groupements ionisables sur les chaines latérales des résidus acides aminés 
 - Ils se comportent comme un ion dipolaire et peuvent migrer dans un champ électrique. 
 - Ils absorbent la lumière dans l’ultraviolet (λ: 220 à 230 nm ou à 280 nm s’ils contiennent un acide aminé aromatique).
-^1670838011102
+^1673860979976
+
 
 ## Propriétés chimiques
 #card 
@@ -66,7 +65,8 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 - Le plus petit peptide donne la même réaction que les acides aminés avec la <label class="ob-comment" title="" style=""> ninhydrine <input type="checkbox"> <span style="">Ninhydrin is an organic compound with the formula C₆H₄(CO)₂C(OH)₂. It is used to detect ammonia and amines. Upon reaction with these amines, ninhydrin gets converted into deep blue or purple derivatives, which are called Ruhemann's purple </span></label>. 
 - Le réactif de coloration biuret réagit avec les peptides contenant plus de 4 acides aminés. 
 - <label class="ob-comment" title="" style=""> Hydrolyse <input type="checkbox"> <span style=""> التحلل المائي </span></label> de la liaison peptidique en présence d'HCL.
-^1670838011186
+^1673860980107
+
 
 ## Propriétés biologiques
 #card 
@@ -78,7 +78,8 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 	-  Les peptides de structure 
 	- Les peptides antibiotiques : 
 		- Tous les pénicillines contiennent la D penicillamine qui est le dérivé du diéthyle de la D- cystéine.Beaucoup d’antibiotiques utilisés en thérapeutique sont des peptides synthétisés en laboratoire
-^1670838011248
+^1673860980239
+
 
 # LES PROTEINES
 #card 
@@ -88,10 +89,7 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 	- <mark style="background: #FF5582A6;">Un rôle structurel (l'actine)</mark>, 
 	- <mark style="background: #FF5582A6;">Un rôle catalytique (les enzymes),</mark> 
 	- <mark style="background: #FF5582A6;">Un rôle de régulation de l'expression des gènes (les facteurs de transcription), etc</mark>
-^1670838011336
-
 ## Caractéristiques des protéines
-#card 
 - Chaque protéine, présente dans les cellules, a une structure qui est déterminée génétiquement et donc, possède une taille prédéfinie (modifiée parfois après traduction).
 - Dans une cellule, chaque protéine joue un rôle particulier.
 - Les protéines sont synthétisées et dégradées en permanence dans les cellules. Une protéine est : 
@@ -112,7 +110,8 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 	- <mark style="background: #FFF3A3A6;">À un lipide</mark>: on parle de lipoprotéine, 
 	- <mark style="background: #FFF3A3A6;">À un glucide</mark>: on parle de glycoprotéine 
 	- <mark style="background: #FFF3A3A6;">à un métal</mark>: on parle métalloprotéine
-^1670838011459
+^1673860980386
+
 
 ## Structure tridimensionnelle des protéines
 #card
@@ -172,7 +171,8 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES PROTIDES ET LES PROTÉINES - STRUCTURES E
 ##### L’hémoglobine
 - Un transporteur d’oxygène, Possède une structure quaternaire, Formée de quatre sous-unités (2 et 2).
 ![[Pasted image 20221210191532.png]]
-^1670838011596
+^1673860980528
+
 
 ## Les différents types de liaisons ou forces impliquées dans la structuration des protéines
 #card 
@@ -202,7 +202,7 @@ Se forme lorsqu'un atome d'hydrogène déjà lié par covalence à un autre atom
 | Insolubles dans la cellule        |Solubles dans le cytoplasme ou dans la phase lipidique des membranes cellulaires|
 | Fonction mécanique et structurale |Agents principaux de l’activité biologique de la cellule|
 | - α- kératines - fibroïne - collagène - élastine |- enzymes (catalyseur cellulaires) - transporteurs d’oxygène ou de lipides (sang) - hormones - récepteurs intégrés à la membrane et médiateurs d’effets hormonaux - Immunoglobulines (anticorps) - etc.|
-^1670838011877
+^1673860980659
 
 ### Exemples de protéines fibreuses
 #### Collagène
@@ -239,7 +239,9 @@ Les méthodes les plus importantes pour la détermination des 4 types de structu
 ![[Pasted image 20221210193628.png]]
 ### Caractère amphotère des protéines
 - Caractère amphotère (comme AA), avec un degré de complexité plus élevé en raison du plus grand nombre de charge mis en jeu
-![[Pasted image 20221210193749.png]] ![[Pasted image 20221210193759.png]] ![[Pasted image 20221210193811.png]]
+![[Pasted image 20221210193749.png]] 
+![[Pasted image 20221210193759.png]] 
+![[Pasted image 20221210193811.png]]
 ### La solubilité
 - La solubilité d’un composé est la quantité maximale du composé qui peut se dissoudre dans un litre de solvant considéré. 
 - La solubilité des protéines dépend de certains paramètres
@@ -266,4 +268,5 @@ Absorption à 200 nm (liaison peptidique) AA aromatiques (absorption à 280 nm)
 Les protéines fixent des colorants (Rouge Ponceau, noir d’amide, Bleu de coomasie…) 
 #### Coloration par réaction
 permet le dosage des protéines : Réaction du biuret et Lowry
-^1670838012031
+^1673860980802
+

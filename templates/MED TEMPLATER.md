@@ -14,3 +14,6 @@ tag: <% tp.system.prompt("TAGS : ", ) %>
 CREATED: <% await tp.system.suggester(["NOTE CREATED" , 'NOTE NOT CRETED'],['YES' , 'NO'])%>
 cards-deck: <%tp.file.folder(true)%>::<%* tR +=`${title}` %>
 ---
+```toc
+```
+

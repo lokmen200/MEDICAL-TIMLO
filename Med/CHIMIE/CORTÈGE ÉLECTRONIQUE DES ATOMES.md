@@ -13,8 +13,11 @@ cards-deck: CHIMIE::CORTÈGE ÉLECTRONIQUE DES ATOMES
 ```
 
 # ROLES DU ELEMENT DU ATOME 
+#card 
 - Électron =>Liaisons chimiques Réactions chimiques
 - Noyau(neutrons et protons) => Réactions nucléaires radioactivité
+^1673872820095
+
 # MODELE DE BOHR
 ![[Pasted image 20221229111638.png]]
 ## POSTULATS DE BOHR

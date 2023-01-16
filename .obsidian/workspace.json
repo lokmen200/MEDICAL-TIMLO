@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2e861e9e40db892",
+            "id": "b57885fad1240a9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
+              }
             }
           },
           {
@@ -188,17 +196,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d2e861e9e40db892",
+  "active": "b57885fad1240a9b",
   "lastOpenFiles": [
+    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
+    "NOTS.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
+    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+    "templates/MED TEMPLATER.md",
+    "Med/ANATOMIE/test.md",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/TD 02 BIOPHYSIQUE (SOLUTION).md",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
-    "PDF/2-Solution de TD B  2022-2023.pdf",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/TD 01 BIOPHYSIQUE (SOLUTION).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
-    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md"
   ]
 }

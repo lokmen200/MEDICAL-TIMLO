@@ -12,9 +12,9 @@
 - [x] La Neoglucogenese
 - [x] La voie des pentoses phosphate
 - [x] Métabolisme du Glycogène
-- [ ] Les Acides aminé - structures et propriétés
-- [ ] Les protides et les protéines - structures et propriétés
-- [ ] Détermination de la structure des acides aminés
+- [x] Les Acides aminé - structures et propriétés
+- [x] Les protides et les protéines - structures et propriétés
+- [x] Détermination de la structure des acides aminés
 - [ ] Les acides aminés - métabolisme
 - [ ] Enzymologie
 # ANATOMIE 

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "CORTÈGE ÉLECTRONIQUE DES ATOMES",
+      "path": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
+    },
+    {
+      "basename": "INTRODUCTION SURE LE CHIMIE",
+      "path": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
+    },
+    {
+      "basename": "NOTS",
+      "path": "NOTS.md"
+    },
+    {
+      "basename": "LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS",
+      "path": "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
+    },
+    {
+      "basename": "HELP BIOCHIMIE",
+      "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
+    },
+    {
+      "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
+      "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    },
+    {
+      "basename": "MED TEMPLATER",
+      "path": "templates/MED TEMPLATER.md"
+    },
+    {
       "basename": "TD 02 BIOPHYSIQUE (SOLUTION)",
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/TD 02 BIOPHYSIQUE (SOLUTION).md"
     },
@@ -29,28 +57,12 @@
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md"
     },
     {
-      "basename": "LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS",
-      "path": "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
-    },
-    {
-      "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
-      "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
-    },
-    {
-      "basename": "HELP BIOCHIMIE",
-      "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
-    },
-    {
       "basename": "LES GLUCIDES STRUCTURE ET PROPRIÉTÉS",
       "path": "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md"
     },
     {
       "basename": "NOTE STATS",
       "path": "Med/NOTE STATS.md"
-    },
-    {
-      "basename": "NOTS",
-      "path": "NOTS.md"
     },
     {
       "basename": "LA GLYCOLYSE",
@@ -102,7 +114,7 @@
     },
     {
       "basename": "4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2)",
-      "path": "PDF/4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2).pdf"
+      "path": "Created PDFs/4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2).pdf"
     },
     {
       "basename": "muscle du bras",
@@ -157,10 +169,6 @@
       "path": "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md"
     },
     {
-      "basename": "INTRODUCTION SURE LE CHIMIE",
-      "path": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
-    },
-    {
       "basename": "NOTION GÉNÉRALE DU ÉNERGIE",
       "path": "Med/BIOPHYSIQUE/GÉNÉRALITÉ/NOTION GÉNÉRALE DU ÉNERGIE.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "LE SQUELETTE DE LA MAIN",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/LE SQUELETTE DE LA MAIN.md"
-    },
-    {
-      "basename": "SCAPULA",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md"
-    },
-    {
-      "basename": "ULNA",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md"
     }
   ],
   "omittedPaths": [],
