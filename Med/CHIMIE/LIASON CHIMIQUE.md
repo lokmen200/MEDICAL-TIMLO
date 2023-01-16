@@ -2,13 +2,13 @@
 Date created : 2022-12-31
 Date of last modefiction : Saturday 31st December 2022 19:31
 Module : CHIMIE
-Cour : LISON CHIMIQUE 
+Cour : LIASON CHIMIQUE 
 Present dans le coure : YES
 Étudiée : YES
 tag: CHIMIE 
 CREATED: YES
 VIDEO : YES
-cards-deck: CHIMIE::LISON CHIMIQUE 
+cards-deck: CHIMIE::LIASON CHIMIQUE 
 ---
 ```toc
 ```

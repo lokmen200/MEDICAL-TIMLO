@@ -88,6 +88,7 @@ cards-deck: CHIMIE::CLASSIFICATION PERIODIQUE DES ELEMENTS
 - Lorsque Z augmente => Fa (noyau-e- ) augmente => Le rayon atomique diminue
 ## Variation de l’électronégativité (En)
 - L’électronégativité est l’aptitude d’un élément à attirer vers lui les e- au sein d’une liaison de covalence
+![[Pasted image 20230116204244.png]]
 ### Dans une colonne
 - Lorsque Z augmente => Le volume de l’atome augmente => Fa (noyau - e- ) diminue => L’électronégativité diminue
 ### Dans une période

@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "LISON CHIMIQUE",
-      "path": "Med/CHIMIE/LISON CHIMIQUE.md"
-    },
-    {
-      "basename": "Série N°3 CHIMIE médecine 2022-2023",
-      "path": "PDF/Série N°3 CHIMIE médecine 2022-2023.pdf"
-    },
-    {
       "basename": "LES EFFETS ÉLECTRONIQUES",
       "path": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
     },
     {
-      "basename": "TD 02 CHIMIE",
-      "path": "Med/CHIMIE/TD 02 CHIMIE.md"
+      "basename": "série N°4 médecine CHIMIE 2022-2023",
+      "path": "PDF/série N°4 médecine CHIMIE 2022-2023.pdf"
     },
     {
       "basename": "TD 03 CHIMIE",
@@ -23,6 +15,22 @@
     {
       "basename": "CLASSIFICATION PERIODIQUE DES ELEMENTS",
       "path": "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md"
+    },
+    {
+      "basename": "LIASON CHIMIQUE",
+      "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
+    },
+    {
+      "basename": "TD 04 CHIMIE",
+      "path": "Med/CHIMIE/TD 04 CHIMIE.md"
+    },
+    {
+      "basename": "Série N°3 CHIMIE médecine 2022-2023",
+      "path": "Created PDFs/Série N°3 CHIMIE médecine 2022-2023.pdf"
+    },
+    {
+      "basename": "TD 02 CHIMIE",
+      "path": "Med/CHIMIE/TD 02 CHIMIE.md"
     },
     {
       "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
@@ -191,14 +199,6 @@
     {
       "basename": "NOTION GÉNÉRALE DU ÉNERGIE",
       "path": "Med/BIOPHYSIQUE/GÉNÉRALITÉ/NOTION GÉNÉRALE DU ÉNERGIE.md"
-    },
-    {
-      "basename": "énergie et thermodynamique quelques notions élémentaires",
-      "path": "Created PDFs/énergie et thermodynamique quelques notions élémentaires.pdf"
-    },
-    {
-      "basename": "Cours 5 chimie",
-      "path": "Created PDFs/Cours 5 chimie.pdf"
     }
   ],
   "omittedPaths": [],

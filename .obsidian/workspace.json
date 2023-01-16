@@ -8,18 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b57885fad1240a9b",
+            "id": "5ec1ad3f2f77f0a6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/série N°4 médecine CHIMIE 2022-2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "438144e2a5e4345d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/CHIMIE/LISON CHIMIQUE.md",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/CHIMIE/LISON CHIMIQUE.md",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/CHIMIE/LISON CHIMIQUE.md",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/CHIMIE/LISON CHIMIQUE.md"
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
               }
             }
           },
@@ -196,17 +207,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b57885fad1240a9b",
+  "active": "438144e2a5e4345d",
   "lastOpenFiles": [
-    "PDF/Série N°3 CHIMIE médecine 2022-2023.pdf",
-    "Med/CHIMIE/LISON CHIMIQUE.md",
+    "PDF/série N°4 médecine CHIMIE 2022-2023.pdf",
     "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
-    "Med/CHIMIE/TD 02 CHIMIE.md",
     "Med/CHIMIE/TD 03 CHIMIE.md",
-    "TD CHIMIEPDF.md",
     "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
-    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
+    "Med/CHIMIE/LIASON CHIMIQUE.md",
+    "Med/CHIMIE/TD 04 CHIMIE.md",
+    "Created PDFs/Série N°3 CHIMIE médecine 2022-2023.pdf",
+    "Med/CHIMIE/TD 02 CHIMIE.md",
+    "TD CHIMIEPDF.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
   ]
 }
