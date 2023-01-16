@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "TD 03 CHIMIE",
+      "path": "Med/CHIMIE/TD 03 CHIMIE.md"
+    },
+    {
+      "basename": "LES EFFETS ÉLECTRONIQUES",
+      "path": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
+    },
+    {
+      "basename": "TD 02",
+      "path": "Med/CHIMIE/TD 02.md"
+    },
+    {
+      "basename": "CLASSIFICATION PERIODIQUE DES ELEMENTS",
+      "path": "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md"
+    },
+    {
+      "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
+      "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    },
+    {
+      "basename": "LISON CHIMIQUE",
+      "path": "Med/CHIMIE/LISON CHIMIQUE.md"
+    },
+    {
       "basename": "CORTÈGE ÉLECTRONIQUE DES ATOMES",
       "path": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
     },
@@ -19,10 +43,6 @@
     {
       "basename": "HELP BIOCHIMIE",
       "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
-    },
-    {
-      "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
-      "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
     },
     {
       "basename": "MED TEMPLATER",
@@ -83,10 +103,6 @@
     {
       "basename": "MÉTHODES D’ÉTUDES DE LA CELLULE",
       "path": "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md"
-    },
-    {
-      "basename": "LISON CHIMIQUE",
-      "path": "Med/CHIMIE/LISON CHIMIQUE.md"
     },
     {
       "basename": "MUSCLE DU L'EPAULE",
@@ -179,26 +195,6 @@
     {
       "basename": "Cours 5 chimie",
       "path": "Created PDFs/Cours 5 chimie.pdf"
-    },
-    {
-      "basename": "QCM ANTOMIE",
-      "path": "Med/ANATOMIE/QCM ANTOMIE.md"
-    },
-    {
-      "basename": "TD 01",
-      "path": "Med/CHIMIE/TD 01.md"
-    },
-    {
-      "basename": "ARTICULATION DU COUDE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md"
-    },
-    {
-      "basename": "ARTICULATION DU POIGNET",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU POIGNET.md"
-    },
-    {
-      "basename": "LE SQUELETTE DE LA MAIN",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/LE SQUELETTE DE LA MAIN.md"
     }
   ],
   "omittedPaths": [],

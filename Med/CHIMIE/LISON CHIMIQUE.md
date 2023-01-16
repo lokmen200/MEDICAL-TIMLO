@@ -12,9 +12,8 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ---
 ```toc
 ```
-[](https://www.youtube.com/watch?v=08kGgrqaZXA)
-[](https://www.youtube.com/watch?v=qGX95VnN2_A)
-[Intermolecular Forces and Boiling Points](https://www.youtube.com/embed/08kGgrqaZXA?feature=oembed)
+[Intermolecular Forces and Boiling Points](https://www.youtube.com/watch?v=08kGgrqaZXA)
+[Types of hydrogen bonds with examples | Intermolecular and Intramolecular Bonding - Dr K](https://www.youtube.com/watch?v=qGX95VnN2_A)
 # Les liaisons intramoléculaires
 - Les liaisons intramoléculaires (entre atomes) s’ établissent <mark style="background: #FF5582A6;">grâce aux électrons de valence</mark>
 ## La valence des atomes et schéma de Lewis
@@ -41,6 +40,7 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ![[Pasted image 20221231194910.png]]
 - Ces liaisons s’établissent généralement entre les <mark style="background: #FF5582A6;">alcalins, alcalino-terreu</mark>x (groupes IA et IIA, électropositifs) avec les <mark style="background: #FF5582A6;">halogènes et oxygène</mark>
 ![[Pasted image 20221231195011.png]]
+
 # Le moment dipolaire
 ## liaison polarisée
 - Soit la liaison A-B si A et B ont des électronégativités différentes ceci implique un déplacement du nuage électronique vers l’élément le plus électronégatif => apparition de charge partielles sur A et B d’où apparition d’un moment dipolaire qui est orienté du + vers le -
@@ -49,6 +49,7 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 - % CI= μ(expérimental)/ μ (théorique) X100 = δ(%)
 - μ(théorique)= e- Xd
 - <mark style="background: #D2B3FFA6;">Exp</mark> : HF μréel = 1.82D= 6.0610-30 c.m, d= 0.92Å δ=?δ= 41%= 0.41
+
 # L’hybridation moléculaire
 - L’hybridation est un réarrangement ou recombinaison des orbitales vides et pleines de la couche de valence des orbitales atomiques afin de pouvoir construire de façon identique des liaisons sigma
 ## Hybridation sp3
@@ -62,6 +63,7 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ![[Pasted image 20221231200121.png]]
 - L’état d’hybridation d’un atome
 ![[Pasted image 20221231200223.png]]
+
 # Géométrie des édifices covalents
 ## Règles de GILLESPIE
 - Les règles de Gillespie permettent de prévoir de façon qualitative la géométrie des petites molécules. Ce modèle est basé sur la répulsion des pairs électroniques de la couche de valence.

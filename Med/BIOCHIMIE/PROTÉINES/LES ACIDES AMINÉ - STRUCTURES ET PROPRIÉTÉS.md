@@ -11,6 +11,8 @@ cards-deck: BIOCHIMIE::PROTÉINES::LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉ
 ---
 ```toc
 ```
+[INTRODUCTION TO AMINO ACIDE](https://www.youtube.com/watch?v=DwBxI2QPsZU)
+[MEMORIZE THE 20 AMINO ACIDES](https://www.youtube.com/watch?v=JQYHLRkLF_k)
 - Les Acides aminés sont les constituants fondamentaux des protéines.
 - Plus de 300 acides aminés ont été inventoriés . On distingue :
 - Les 20 Aa naturel ou standard : qui sont incorporés dans les protéines naturelles lors de la traduction.

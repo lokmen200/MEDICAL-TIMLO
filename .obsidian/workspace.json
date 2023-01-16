@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0326c3a95d3b20ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/CHIMIE/TD 03 CHIMIE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+                "file": "Med/CHIMIE/TD 03 CHIMIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+                "file": "Med/CHIMIE/TD 03 CHIMIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
+                "file": "Med/CHIMIE/TD 03 CHIMIE.md"
               }
             }
           },
@@ -196,17 +209,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b57885fad1240a9b",
+  "active": "0326c3a95d3b20ec",
   "lastOpenFiles": [
-    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
-    "NOTS.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "TD CHIMIEPDF.md",
+    "Med/CHIMIE/TD 03 CHIMIE.md",
+    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+    "Med/CHIMIE/TD 02.md",
+    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
     "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "templates/MED TEMPLATER.md",
-    "Med/ANATOMIE/test.md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/TD 02 BIOPHYSIQUE (SOLUTION).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md"
+    "Med/CHIMIE/LISON CHIMIQUE.md",
+    "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
+    "NOTS.md"
   ]
 }

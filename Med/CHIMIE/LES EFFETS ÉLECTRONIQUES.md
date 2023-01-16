@@ -14,8 +14,10 @@ cards-deck: CHIMIE::LES EFFETS ÉLECTRONIQUES
 ```
 [Resonance Structures/Assigning Formal Charge](https://www.youtube.com/watch?v=fYCzeFEAfjg)
 [The Inductive Effect | Electronic Effects | Chemistry | Khan Academy](https://www.youtube.com/watch?v=WO8BHU6lPXc)
+
 # LES EFFETS ÉLECTRONIQUES
 - Dans une molécule, un <mark style="background: #FF5582A6;">même groupe</mark> fonctionnel peut présenter <mark style="background: #FF5582A6;">une réactivité différente</mark> selon <mark style="background: #FF5582A6;">son environnement</mark>. Cette réactivité est causée soit par <mark style="background: #FF5582A6;">l’effet inductif soit par l’effet mésomère</mark>
+
 # L’effet inductif
 - La <mark style="background: #FF5582A6;">polarisation d’une liaison covalente</mark> entre 2 atomes d’électronégativité différente <mark style="background: #FF5582A6;">induit un déplacement du nuage électronique</mark> le long de la liaison σ; <mark style="background: #FF5582A6;">c'est l'effet inductif</mark>
 	1. E.I attracteur -I
@@ -40,6 +42,7 @@ R= H ou groupement alkyl
 ## Effet donneur
 ![[Pasted image 20221231221510.png]]
 - L’effet +I induit une <mark style="background: #FF5582A6;">augmentation de la basicité</mark>
+
 # L’effet mésomère (M)
 - La mésomérie est une façon de décrire le déplacement de certains e- dans une molécule; elle concerne:
 	- Les e- des liaisons π

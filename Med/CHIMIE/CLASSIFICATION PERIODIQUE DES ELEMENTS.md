@@ -63,8 +63,8 @@ cards-deck: CHIMIE::CLASSIFICATION PERIODIQUE DES ELEMENTS
 ![[Pasted image 20221231113001.png]]
 ![[Pasted image 20221231113546.png]]
 <mark style="background: #FFB86CA6;">REMARQUE 01</mark>:
-- À part les éléments des groupes VA , VIA et VIIA qui auront tendance à gagner des e - , ,tous les autres atomes cèderont facilement des e - et seront électropositifs.
-- Les éléments du bloc d (métaux de transition) donneront toujours des cations à valences multiples en perdant les é- de la sous couche s en premier puis favoriseront les configurations d5 et d10 : Zn2+ , Cu+ , Fe2+, Fe3+
+- À part les éléments des groupes VA , VIA et VIIA qui auront tendance à gagner des e - ,tous les autres atomes cèderont facilement des e - et seront électropositifs.
+- Les éléments du bloc d (métaux de transition) donneront toujours des cations à valences multiples en <mark style="background: #FF5582A6;">perdant les é- de la sous couche s </mark>en premier puis favoriseront les configurations d5 et d10 : Zn2+ , Cu+ , Fe2+, Fe3+
 ^1672484709547
 
 #  Propriétés physiques des éléments
@@ -86,11 +86,10 @@ cards-deck: CHIMIE::CLASSIFICATION PERIODIQUE DES ELEMENTS
 - Lorsque Z augmente => Le nombre de couche augmente =>le volume de l’atome augmente => Le rayon atomique augmente
 ### Dans une période
 - Lorsque Z augmente => Fa (noyau-e- ) augmente => Le rayon atomique diminue
-
 ## Variation de l’électronégativité (En)
 - L’électronégativité est l’aptitude d’un élément à attirer vers lui les e- au sein d’une liaison de covalence
 ### Dans une colonne
 - Lorsque Z augmente => Le volume de l’atome augmente => Fa (noyau - e- ) diminue => L’électronégativité diminue
 ### Dans une période
-- , lorsque Z augmente => Fa (noyau-e-) augmente=> l’électronégativité augmente
+- Lorsque Z augmente => Fa (noyau-e-) augmente=> l’électronégativité augmente
 
