@@ -14,6 +14,7 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ```
 [Intermolecular Forces and Boiling Points](https://www.youtube.com/watch?v=08kGgrqaZXA)
 [Types of hydrogen bonds with examples | Intermolecular and Intramolecular Bonding - Dr K](https://www.youtube.com/watch?v=qGX95VnN2_A)
+[Liaison chimique partie 3bis - liaison hydrogène](https://youtu.be/cAu7AHr6qX8)
 # Les liaisons intramoléculaires
 - Les liaisons intramoléculaires (entre atomes) s’ établissent <mark style="background: #FF5582A6;">grâce aux électrons de valence</mark>
 ## La valence des atomes et schéma de Lewis
@@ -65,6 +66,7 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ![[Pasted image 20221231200223.png]]
 
 # Géométrie des édifices covalents
+#card 
 ## Règles de GILLESPIE
 - Les règles de Gillespie permettent de prévoir de façon qualitative la géométrie des petites molécules. Ce modèle est basé sur la répulsion des pairs électroniques de la couche de valence.
 ![[Pasted image 20221231200319.png]]
@@ -80,6 +82,8 @@ cards-deck: CHIMIE::LISON CHIMIQUE
 ![[Pasted image 20221231200747.png]]
 - <mark style="background: #FFB86CA6;">REMARQUE</mark> : L'angle de valence est d'autant plus grand que l'électronégativité de l'atome central est grande.
 	![[Pasted image 20221231201253.png]]
+^1673883185338
+
 ### Moment dipolaire moléculaire
 - Le moment dipolaire d’une molécule est la somme vectorielle de tous les moments dipolaires des liaisons qui la constituent et donc il faut tenir compte des angles de liaisons effectifs.
 ![[Pasted image 20221231201358.png]]

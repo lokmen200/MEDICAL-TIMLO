@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0326c3a95d3b20ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/CHIMIE/TD 03 CHIMIE.md",
+                "file": "Med/CHIMIE/LISON CHIMIQUE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/CHIMIE/TD 03 CHIMIE.md",
+                "file": "Med/CHIMIE/LISON CHIMIQUE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/CHIMIE/TD 03 CHIMIE.md",
+                "file": "Med/CHIMIE/LISON CHIMIQUE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/CHIMIE/TD 03 CHIMIE.md"
+                "file": "Med/CHIMIE/LISON CHIMIQUE.md"
               }
             }
           },
@@ -209,17 +196,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0326c3a95d3b20ec",
+  "active": "b57885fad1240a9b",
   "lastOpenFiles": [
-    "TD CHIMIEPDF.md",
-    "Med/CHIMIE/TD 03 CHIMIE.md",
+    "PDF/Série N°3 CHIMIE médecine 2022-2023.pdf",
+    "Med/CHIMIE/LISON CHIMIQUE.md",
     "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
-    "Med/CHIMIE/TD 02.md",
+    "Med/CHIMIE/TD 02 CHIMIE.md",
+    "Med/CHIMIE/TD 03 CHIMIE.md",
+    "TD CHIMIEPDF.md",
     "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
     "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/CHIMIE/LISON CHIMIQUE.md",
     "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
-    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
-    "NOTS.md"
+    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
   ]
 }
