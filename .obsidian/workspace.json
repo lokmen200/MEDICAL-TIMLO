@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a01ec2085ab34e93",
+        "id": "c859be71809088c8",
         "type": "tabs",
         "children": [
           {
-            "id": "4336b3cc9b115312",
+            "id": "d2e861e9e40db892",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e53f9aeb7a684468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5110321044922,
+    "width": 371.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -114,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,17 +188,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "03ad2e8b1172188e",
+  "active": "d2e861e9e40db892",
   "lastOpenFiles": [
-    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/TD 02 BIOPHYSIQUE (SOLUTION).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
+    "PDF/2-Solution de TD B  2022-2023.pdf",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/TD 01 BIOPHYSIQUE (SOLUTION).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
+    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
     "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/NOTE STATS.md",
-    "NOTS.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/INTRODUCTION SUR LA MYOLOGIE.md",
-    "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
-    "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md"
+    "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
   ]
 }
