@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c859be71809088c8",
+        "id": "e5fb28dff16973c5",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec1ad3f2f77f0a6",
+            "id": "f65f14b5504193d3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "pdf-annotator",
               "state": {
-                "file": "PDF/série N°4 médecine CHIMIE 2022-2023.pdf"
-              }
-            }
-          },
-          {
-            "id": "438144e2a5e4345d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
-                "mode": "source",
-                "source": false
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,11 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 371.5110321044922,
+    "width": 258.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -113,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,23 +150,15 @@
             }
           },
           {
-            "id": "f50b8d7a4adbcdf1",
+            "id": "835388e7828978fd",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "31a0a24be1f96fa4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,9 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-youglish-plugin:Youglish Plugin": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
@@ -203,21 +176,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-comments:Show Comments Panel": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "438144e2a5e4345d",
+  "active": "0206e83d9e7999d7",
   "lastOpenFiles": [
-    "PDF/série N°4 médecine CHIMIE 2022-2023.pdf",
-    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
-    "Med/CHIMIE/TD 03 CHIMIE.md",
-    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
-    "Med/CHIMIE/LIASON CHIMIQUE.md",
-    "Med/CHIMIE/TD 04 CHIMIE.md",
-    "Created PDFs/Série N°3 CHIMIE médecine 2022-2023.pdf",
-    "Med/CHIMIE/TD 02 CHIMIE.md",
-    "TD CHIMIEPDF.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+    "PDF/3_Détermination de la structure des AAs .pdf",
+    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "Created PDFs/02-le systeme squelettique.pdf",
+    "Created PDFs/acides aminés  1ere année médecine.pptx.pdf",
+    "Created PDFs/Protides et protéines == 1ere année médecine (2)-1.pdf",
+    "NOTS.md",
+    "Med/NOTE STATS.md",
+    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
   ]
 }

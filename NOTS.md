@@ -14,7 +14,7 @@
 - [x] Métabolisme du Glycogène
 - [x] Les Acides aminé - structures et propriétés
 - [x] Les protides et les protéines - structures et propriétés
-- [x] Détermination de la structure des acides aminés
+- [ ] Détermination de la structure des acides aminés
 - [ ] Les acides aminés - métabolisme
 - [ ] Enzymologie
 # ANATOMIE 
