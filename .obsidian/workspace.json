@@ -8,16 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f65f14b5504193d3",
+            "id": "2cd439e185cc581e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+              }
+            }
+          },
+          {
+            "id": "5977aff5ef358c3e",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md"
               }
             }
           },
@@ -194,17 +205,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f65f14b5504193d3",
+  "active": "5977aff5ef358c3e",
   "lastOpenFiles": [
     "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+    "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
+    "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
+    "PDF/5 tensions de surfaces.pdf",
+    "Med/Repeat.md",
     "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
     "Med/BIOCHIMIE/PROTÉINES/PDF/3_Détermination de la structure des AAs .pdf",
     "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
     "Created PDFs/02-le systeme squelettique.pdf",
-    "Created PDFs/acides aminés  1ere année médecine.pptx.pdf",
-    "Created PDFs/Protides et protéines == 1ere année médecine (2)-1.pdf",
-    "NOTS.md",
-    "Med/NOTE STATS.md",
-    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
+    "Created PDFs/acides aminés  1ere année médecine.pptx.pdf"
   ]
 }

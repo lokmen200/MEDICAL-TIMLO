@@ -15,11 +15,6 @@ cards-deck: BIOCHIMIE::PROTÉINES::DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES P
 
 
 
-
-
-
-
-
 >%%
 >```annotation-json
 >{"created":"2023-01-17T23:43:38.174Z","text":"Les techniques de  séparation et de  purification \n","updated":"2023-01-17T23:43:38.174Z","document":{"title":"3_Détermination de la structure des AAs (1)","link":[{"href":"urn:x-pdf:51a5d73148208686c20a9b3bfab9417e"},{"href":"https://via.hypothes.is/static/17596075c280a757b7d7f83122332990/vendor/pdfjs-2/web/3_D%C3%A9termination%20de%20la%20structure%20des%20AAs%20.pdf"}],"documentFingerprint":"51a5d73148208686c20a9b3bfab9417e"},"uri":"https://via.hypothes.is/static/17596075c280a757b7d7f83122332990/vendor/pdfjs-2/web/3_D%C3%A9termination%20de%20la%20structure%20des%20AAs%20.pdf","target":[{"source":"https://via.hypothes.is/static/17596075c280a757b7d7f83122332990/vendor/pdfjs-2/web/3_D%C3%A9termination%20de%20la%20structure%20des%20AAs%20.pdf","selector":[{"type":"TextPositionSelector","start":1283,"end":1396},{"type":"TextQuoteSelector","exact":"e base sur sa taille, sa solubilité dans un solvant particulier, sa charge ou son aptitude à se lier à un support","prefix":" pour séparer les polypeptides s","suffix":".Paramètre  Technique Densité  U"}]}]}
