@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1 cours du Chapitre1 electrostatique charges ponctuelles",
+      "path": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+    },
+    {
+      "basename": "BIOPHYSIQUE TD",
+      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/BIOPHYSIQUE TD.md"
+    },
+    {
       "basename": "2 cours du Chapitre1 dipole electrique",
       "path": "PDF/2 cours du Chapitre1 dipole electrique.pdf"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "DIPÔLE ÉLECTRIQUE",
       "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md"
-    },
-    {
-      "basename": "1 cours du Chapitre1 electrostatique charges ponctuelles",
-      "path": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
     },
     {
       "basename": "DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES",
@@ -195,10 +199,6 @@
     {
       "basename": "L'ARTICULATION DU L'EPAULE",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/L'ARTICULATION DU L'EPAULE.md"
-    },
-    {
-      "basename": "CLAVICULE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md"
     }
   ],
   "omittedPaths": [],

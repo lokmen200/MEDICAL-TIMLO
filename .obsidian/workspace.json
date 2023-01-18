@@ -11,8 +11,10 @@
             "id": "6ae1cb682ec862dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+              }
             }
           }
         ]
@@ -97,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+              }
             }
           },
           {
@@ -189,6 +195,7 @@
   },
   "active": "6ae1cb682ec862dc",
   "lastOpenFiles": [
+    "Med/BIOPHYSIQUE/ÉLECTRICITE/BIOPHYSIQUE TD.md",
     "PDF/2 cours du Chapitre1 dipole electrique.pdf",
     "Med/CHIMIE/LIASON CHIMIQUE.md",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
@@ -197,7 +204,6 @@
     "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
     "PDF/5 tensions de surfaces.pdf",
     "Med/Repeat.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/PROTÉINES/PDF/3_Détermination de la structure des AAs .pdf"
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
   ]
 }
