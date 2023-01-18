@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
+              }
             }
           },
           {
@@ -156,9 +159,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "efe79d2a89eadd45",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -176,14 +187,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-comments:Show Comments Panel": false
+      "obsidian-comments:Show Comments Panel": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0206e83d9e7999d7",
+  "active": "f65f14b5504193d3",
   "lastOpenFiles": [
     "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
     "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "PDF/3_Détermination de la structure des AAs .pdf",
+    "Med/BIOCHIMIE/PROTÉINES/PDF/3_Détermination de la structure des AAs .pdf",
     "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
     "Created PDFs/02-le systeme squelettique.pdf",
     "Created PDFs/acides aminés  1ere année médecine.pptx.pdf",
