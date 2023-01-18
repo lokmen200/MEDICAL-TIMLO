@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5fb28dff16973c5",
+        "id": "1ab76e7a8b8493ff",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd439e185cc581e",
+            "id": "6ae1cb682ec862dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
-              }
-            }
-          },
-          {
-            "id": "5977aff5ef358c3e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -111,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,17 +187,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5977aff5ef358c3e",
+  "active": "6ae1cb682ec862dc",
   "lastOpenFiles": [
-    "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+    "PDF/2 cours du Chapitre1 dipole electrique.pdf",
+    "Med/CHIMIE/LIASON CHIMIQUE.md",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
+    "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md",
     "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
+    "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
     "PDF/5 tensions de surfaces.pdf",
     "Med/Repeat.md",
     "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/PROTÉINES/PDF/3_Détermination de la structure des AAs .pdf",
-    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
-    "Created PDFs/02-le systeme squelettique.pdf",
-    "Created PDFs/acides aminés  1ere année médecine.pptx.pdf"
+    "Med/BIOCHIMIE/PROTÉINES/PDF/3_Détermination de la structure des AAs .pdf"
   ]
 }

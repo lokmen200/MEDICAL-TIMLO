@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2 cours du Chapitre1 dipole electrique",
+      "path": "PDF/2 cours du Chapitre1 dipole electrique.pdf"
+    },
+    {
+      "basename": "LIASON CHIMIQUE",
+      "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
+    },
+    {
       "basename": "ÉLECTRICITE INRTODUCTION",
       "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md"
     },
     {
-      "basename": "DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES",
-      "path": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
+      "basename": "DIPÔLE ÉLECTRIQUE",
+      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md"
     },
     {
       "basename": "1 cours du Chapitre1 electrostatique charges ponctuelles",
       "path": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+    },
+    {
+      "basename": "DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES",
+      "path": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
     },
     {
       "basename": "5 tensions de surfaces",
@@ -67,10 +79,6 @@
     {
       "basename": "TD 03 CHIMIE",
       "path": "Med/CHIMIE/TD 03 CHIMIE.md"
-    },
-    {
-      "basename": "LIASON CHIMIQUE",
-      "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
     },
     {
       "basename": "TD 04 CHIMIE",
@@ -191,14 +199,6 @@
     {
       "basename": "CLAVICULE",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md"
-    },
-    {
-      "basename": "muscle epaule",
-      "path": "Created PDFs/muscle epaule.pdf"
-    },
-    {
-      "basename": "2EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE",
-      "path": "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/2EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
     }
   ],
   "omittedPaths": [],

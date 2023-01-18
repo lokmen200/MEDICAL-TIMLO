@@ -197,3 +197,74 @@ cards-deck: BIOPHYSIQUE::ÉLECTRICITE::ÉLECTRICITE INTRODUCTION
 >%%TAGS%%
 >
 ^u893cqw8h5
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-18T13:33:26.309Z","updated":"2023-01-18T13:33:26.309Z","document":{"title":"1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","link":[{"href":"urn:x-pdf:47781dcf640fc343bd5d571a26ce9537"},{"href":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"}],"documentFingerprint":"47781dcf640fc343bd5d571a26ce9537"},"uri":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","target":[{"source":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","selector":[{"type":"TextPositionSelector","start":24288,"end":24553},{"type":"TextQuoteSelector","exact":"Remarques. ✓ Si le travail des forces électriques est positif, il est dit moteur. C'est à dire que la charge influencée se déplace seule dans le milieu extérieur sans apport d'énergie externe. ✓ Sinon, il est dit résistant, un agent externe doit la faire déplacée. ","prefix":"uencée)×(Vdépart −Varrivée)]  ➢ ","suffix":"1.5.4 Énergie interne d'un systè"}]}]}
+>```
+>%%
+>*%%PREFIX%%uencée)×(Vdépart −Varrivée)]  ➢%%HIGHLIGHT%% ==Remarques. ✓ Si le travail des forces électriques est positif, il est dit moteur. C'est à dire que la charge influencée se déplace seule dans le milieu extérieur sans apport d'énergie externe. ✓ Sinon, il est dit résistant, un agent externe doit la faire déplacée.== %%POSTFIX%%1.5.4 Énergie interne d'un systè*
+>%%LINK%%[[#^i0akdmf6nup|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^i0akdmf6nup
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-18T13:34:10.607Z","updated":"2023-01-18T13:34:10.607Z","document":{"title":"1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","link":[{"href":"urn:x-pdf:47781dcf640fc343bd5d571a26ce9537"},{"href":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"}],"documentFingerprint":"47781dcf640fc343bd5d571a26ce9537"},"uri":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","target":[{"source":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","selector":[{"type":"TextPositionSelector","start":24559,"end":24976},{"type":"TextQuoteSelector","exact":"Énergie interne d'un système de charge. L’énergie interne d’un système de charges est un paramètre qui permet de qualifier la stabilité de celui-ci. Si le signe de cette énergie est positif, les charges tendent à s’éloignées les unes des autres on dit que le système est  instable. Alors que s’il est négatif  les charges  tendent  à se  rapprochées  les unes  des autres  on dit que  le système de charges est stable","prefix":"e doit la faire déplacée. 1.5.4 ","suffix":".  Cette énergie interne est déf"}]}]}
+>```
+>%%
+>*%%PREFIX%%e doit la faire déplacée. 1.5.4%%HIGHLIGHT%% ==Énergie interne d'un système de charge. L’énergie interne d’un système de charges est un paramètre qui permet de qualifier la stabilité de celui-ci. Si le signe de cette énergie est positif, les charges tendent à s’éloignées les unes des autres on dit que le système est  instable. Alors que s’il est négatif  les charges  tendent  à se  rapprochées  les unes  des autres  on dit que  le système de charges est stable== %%POSTFIX%%.  Cette énergie interne est déf*
+>%%LINK%%[[#^0ci75wbvzgqr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0ci75wbvzgqr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-18T13:37:14.968Z","text":". Elle représente la trajectoire d'une  charge influencée lors de son déplacement dans le milieu extérieur","updated":"2023-01-18T13:37:14.968Z","document":{"title":"1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","link":[{"href":"urn:x-pdf:47781dcf640fc343bd5d571a26ce9537"},{"href":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"}],"documentFingerprint":"47781dcf640fc343bd5d571a26ce9537"},"uri":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","target":[{"source":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","selector":[{"type":"TextPositionSelector","start":25295,"end":25311},{"type":"TextQuoteSelector","exact":"Lignes de champs","prefix":"rfaces équipotentielles.  1.6.3 ","suffix":" :  On appelle ligne de champ él"}]}]}
+>```
+>%%
+>*%%PREFIX%%rfaces équipotentielles.  1.6.3%%HIGHLIGHT%% ==Lignes de champs== %%POSTFIX%%:  On appelle ligne de champ él*
+>%%LINK%%[[#^udcchh9hut|show annotation]]
+>%%COMMENT%%
+>. Elle représente la trajectoire d'une  charge influencée lors de son déplacement dans le milieu extérieur
+>%%TAGS%%
+>
+^udcchh9hut
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-18T13:38:14.389Z","updated":"2023-01-18T13:38:14.389Z","document":{"title":"1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","link":[{"href":"urn:x-pdf:47781dcf640fc343bd5d571a26ce9537"},{"href":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"}],"documentFingerprint":"47781dcf640fc343bd5d571a26ce9537"},"uri":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","target":[{"source":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","selector":[{"type":"TextPositionSelector","start":25615,"end":25776},{"type":"TextQuoteSelector","exact":"Surfaces équipotentielles :  L'ensemble  des  points  de  l'espace  ayant  la  même  valeur  du  potentiel  électrique,  définit  des  surfaces équipotentielles.","prefix":"ans le milieu extérieur.  1.6.4 ","suffix":" 1.6.5 Propriétés des lignes de "}]}]}
+>```
+>%%
+>*%%PREFIX%%ans le milieu extérieur.  1.6.4%%HIGHLIGHT%% ==Surfaces équipotentielles :  L'ensemble  des  points  de  l'espace  ayant  la  même  valeur  du  potentiel  électrique,  définit  des  surfaces équipotentielles.== %%POSTFIX%%1.6.5 Propriétés des lignes de*
+>%%LINK%%[[#^y6hu3n2dunm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y6hu3n2dunm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-01-18T13:38:45.946Z","updated":"2023-01-18T13:38:45.946Z","document":{"title":"1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","link":[{"href":"urn:x-pdf:47781dcf640fc343bd5d571a26ce9537"},{"href":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"}],"documentFingerprint":"47781dcf640fc343bd5d571a26ce9537"},"uri":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","target":[{"source":"vault:/PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf","selector":[{"type":"TextPositionSelector","start":25850,"end":26178},{"type":"TextQuoteSelector","exact":"Trois propriétés importantes relient les lignes de champs aux surfaces équipotentielles. ➢ Les lignes de champs sont toujours perpendiculaires aux surfaces équipotentielles. ➢ La ligne de champ est toujours orientée dans le sens des potentiels décroissant. ➢ Le vecteur champ électrique est toujours tangent à la ligne de champ.","prefix":"des surfaces équipotentielles.  ","suffix":"         12/12  Les Deux Charges"}]}]}
+>```
+>%%
+>*%%PREFIX%%des surfaces équipotentielles.%%HIGHLIGHT%% ==Trois propriétés importantes relient les lignes de champs aux surfaces équipotentielles. ➢ Les lignes de champs sont toujours perpendiculaires aux surfaces équipotentielles. ➢ La ligne de champ est toujours orientée dans le sens des potentiels décroissant. ➢ Le vecteur champ électrique est toujours tangent à la ligne de champ.== %%POSTFIX%%12/12  Les Deux Charges*
+>%%LINK%%[[#^ywxfrq02uhp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ywxfrq02uhp
