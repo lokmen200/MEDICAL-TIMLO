@@ -6,7 +6,7 @@
 %>
 Date created : <%tp.date.now("YYYY-MM-DD")%>
 Date of last modefiction : <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>
-Module : <%tp.system.suggester(['ANATOMIE' , 'EMBRYOLOGIE' , 'CYTOLOGIE' , 'BIOCHIMIE','BIOPHYSIQUE','CHIMIE'],['ANATOMIE' , 'EMBRYOLOGIE' , 'CYTOLOGIE' , 'BIOCHIMIE','BIOPHYSIQUE','CHIMIE'])%>
+Module : <%tp.system.suggester(['ANATOMIE' , 'EMBRYOLOGIE' , 'CYTOLOGIE' , 'BIOCHIMIE','BIOPHYSIQUE','CHIMIE','BIOSTAT'],['ANATOMIE' , 'EMBRYOLOGIE' , 'CYTOLOGIE' , 'BIOCHIMIE','BIOPHYSIQUE','CHIMIE','BIOSTAT'])%>
 Cour : <%* tR += `${title}` %>
 Present dans le coure : <% await tp.system.suggester(["Present dans l'amphi" , 'NO pas present'],['YES' , 'NO'])%>
 Étudiée : <%tp.system.suggester(["n'est pas Etudier ", "déjà Etudier"],['NO' ,"YES"])%>

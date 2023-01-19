@@ -13,3 +13,4 @@ cards-deck: BIOPHYSIQUE::ÉLECTRICITE::DIPÔLE ÉLECTRIQUE
 ```toc
 ```
 
+![[2 cours du Chapitre1 dipole electrique.pdf]]

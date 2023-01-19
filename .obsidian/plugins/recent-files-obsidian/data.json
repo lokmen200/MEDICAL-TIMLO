@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES",
-      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md"
+      "basename": "STATISTIQUES DESCRIPTIVES",
+      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+    },
+    {
+      "basename": "MED TEMPLATER",
+      "path": "templates/MED TEMPLATER.md"
     },
     {
       "basename": "1 cours du Chapitre1 electrostatique charges ponctuelles",
       "path": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+    },
+    {
+      "basename": "CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES",
+      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md"
+    },
+    {
+      "basename": "DIPÔLE ÉLECTRIQUE",
+      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md"
+    },
+    {
+      "basename": "LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS",
+      "path": "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
     },
     {
       "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
@@ -31,10 +47,6 @@
     {
       "basename": "ÉLECTRICITE INRTODUCTION",
       "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md"
-    },
-    {
-      "basename": "DIPÔLE ÉLECTRIQUE",
-      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md"
     },
     {
       "basename": "DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES",
@@ -107,14 +119,6 @@
     {
       "basename": "INTRODUCTION SURE LE CHIMIE",
       "path": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
-    },
-    {
-      "basename": "LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS",
-      "path": "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
-    },
-    {
-      "basename": "MED TEMPLATER",
-      "path": "templates/MED TEMPLATER.md"
     },
     {
       "basename": "TD 02 BIOPHYSIQUE (SOLUTION)",
@@ -195,10 +199,6 @@
     {
       "basename": "4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2)",
       "path": "Created PDFs/4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2).pdf"
-    },
-    {
-      "basename": "muscle du bras",
-      "path": "Created PDFs/muscle du bras.pdf"
     }
   ],
   "omittedPaths": [],
