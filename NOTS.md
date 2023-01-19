@@ -14,14 +14,13 @@
 - [x] Métabolisme du Glycogène
 - [x] Les Acides aminé - structures et propriétés
 - [x] Les protides et les protéines - structures et propriétés
-- [ ] Détermination de la structure des acides aminés
+- [x] Détermination de la structure des acides aminés
 - [ ] Les acides aminés - métabolisme
 - [ ] Enzymologie
 # ANATOMIE 
 - [x] Le système musculaire
 - [ ] Muscle de l'épaule et du bras
 - [ ] Les muscles de l'avant bras
-- [ ] Les muscles de la main
 - [ ] Vascularisation du membre supérieur "Artère axillaire"
 - [ ] Artère brachiale
 # CYTOLOGIE

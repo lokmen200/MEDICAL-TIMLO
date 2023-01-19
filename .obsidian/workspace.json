@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab76e7a8b8493ff",
+        "id": "a511c9f4bc8b9ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae1cb682ec862dc",
+            "id": "3b78d9d5e9e1e139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f8ea445c2551f2",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -46,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+                "file": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md"
               }
             }
           },
@@ -193,17 +205,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6ae1cb682ec862dc",
+  "active": "3b78d9d5e9e1e139",
   "lastOpenFiles": [
+    "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
+    "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+    "NOTS.md",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/BIOPHYSIQUE TD.md",
     "PDF/2 cours du Chapitre1 dipole electrique.pdf",
     "Med/CHIMIE/LIASON CHIMIQUE.md",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/ÉLECTRICITE INRTODUCTION.md",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md",
-    "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
-    "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
-    "PDF/5 tensions de surfaces.pdf",
-    "Med/Repeat.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
   ]
 }

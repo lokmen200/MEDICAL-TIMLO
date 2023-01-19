@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES",
+      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md"
+    },
+    {
       "basename": "1 cours du Chapitre1 electrostatique charges ponctuelles",
       "path": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
+    },
+    {
+      "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
+      "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    },
+    {
+      "basename": "NOTS",
+      "path": "NOTS.md"
     },
     {
       "basename": "BIOPHYSIQUE TD",
@@ -37,10 +49,6 @@
       "path": "Med/Repeat.md"
     },
     {
-      "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
-      "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
-    },
-    {
       "basename": "3_Détermination de la structure des AAs ",
       "path": "Med/BIOCHIMIE/PROTÉINES/PDF/3_Détermination de la structure des AAs .pdf"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Protides et protéines == 1ere année médecine (2)-1",
       "path": "Created PDFs/Protides et protéines == 1ere année médecine (2)-1.pdf"
-    },
-    {
-      "basename": "NOTS",
-      "path": "NOTS.md"
     },
     {
       "basename": "NOTE STATS",
@@ -195,10 +199,6 @@
     {
       "basename": "muscle du bras",
       "path": "Created PDFs/muscle du bras.pdf"
-    },
-    {
-      "basename": "L'ARTICULATION DU L'EPAULE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/L'ARTICULATION DU L'EPAULE.md"
     }
   ],
   "omittedPaths": [],
