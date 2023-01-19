@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "PROBABILITÉ",
+      "path": "Med/BIOSTAT/PROBABILITÉ.md"
+    },
+    {
       "basename": "STATISTIQUES DESCRIPTIVES",
       "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+    },
+    {
+      "basename": "LOI BINOMIALE ET LOI NORMALE",
+      "path": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
     },
     {
       "basename": "MED TEMPLATER",
@@ -187,18 +195,6 @@
     {
       "basename": "MUSCLE DU L'AVANT BRAS",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md"
-    },
-    {
-      "basename": "INTRODUCTION A L'ARTICULATION",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/INTRODUCTION A L'ARTICULATION.md"
-    },
-    {
-      "basename": "Les propriétés Optique des solutions Prof TD",
-      "path": "PDF/Les propriétés Optique des solutions Prof TD.pdf"
-    },
-    {
-      "basename": "4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2)",
-      "path": "Created PDFs/4eme semaine du développement embryonnaire 1 -Rahal-2022- 2023 (2).pdf"
     }
   ],
   "omittedPaths": [],

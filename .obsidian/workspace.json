@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7ffbac3d85078c",
+        "id": "c1175690645b85dc",
         "type": "tabs",
         "children": [
           {
-            "id": "82e161c37a384d36",
+            "id": "8e993834d5afc041",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+                "file": "Med/BIOSTAT/PROBABILITÉ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+                "file": "Med/BIOSTAT/PROBABILITÉ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+                "file": "Med/BIOSTAT/PROBABILITÉ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+                "file": "Med/BIOSTAT/PROBABILITÉ.md"
               }
             }
           },
@@ -196,17 +195,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "82e161c37a384d36",
+  "active": "8e993834d5afc041",
   "lastOpenFiles": [
+    "Med/BIOSTAT/IMAGES/Pasted image 20230120003949.png",
+    "Med/BIOSTAT/PROBABILITÉ.md",
+    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+    "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
     "templates/MED TEMPLATER.md",
     "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md",
     "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md",
     "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "NOTS.md",
-    "Med/BIOPHYSIQUE/ÉLECTRICITE/BIOPHYSIQUE TD.md",
-    "PDF/2 cours du Chapitre1 dipole electrique.pdf",
-    "Med/CHIMIE/LIASON CHIMIQUE.md"
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
   ]
 }
