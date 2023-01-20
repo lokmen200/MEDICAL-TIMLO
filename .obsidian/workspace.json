@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1175690645b85dc",
+        "id": "000a0939a383ed3a",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc4730724a671e8",
+            "id": "cc396554a6a9b522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9b8f8517165b89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md"
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/Untitled.md"
               }
             }
           },
@@ -208,17 +195,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d9b8f8517165b89e",
+  "active": "cc396554a6a9b522",
   "lastOpenFiles": [
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
-    "NOTS.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU BRAS.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120180129.png",
     "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
     "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
+    "Med/ANATOMIE/QCM ANTOMIE.md",
+    "NOTS.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
     "dentelé antérieur.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
-    "Med/BIOSTAT/PROBABILITÉ.md",
-    "Med/BIOSTAT/IMAGES/Pasted image 20230120003949.png",
-    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md"
   ]
 }

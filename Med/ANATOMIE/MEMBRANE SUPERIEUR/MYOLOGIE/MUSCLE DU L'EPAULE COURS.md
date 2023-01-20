@@ -61,7 +61,7 @@ Petit rond : adducteur et rotateur externe du bras
 - Il s'étend depuis les neuf premiéres cotes jusqu'aux omoplates 
 - éléve et écarte les omoplaes vers l'extérieur il aide les mouvements respiratoires 
 ![[Pasted image 20230114123652.png]]
-### rohmboide 
+### Rohmboide 
 - Petit rhomboide son origine est sure le processus épineux ders vertébres cervicales C7 a T1 il se termine sur le bord médial de la scapula 
 - grand rhomboide est un muscle plat compris entre les processus épineux des vertébres C6 a T4  etle bord spinal de la scapula 
 - Elévateur et adducteur de l'omoplate qu'il colle contre la cage thoracique 
@@ -78,16 +78,16 @@ Petit rond : adducteur et rotateur externe du bras
 	- petit rond ou teres minor
 - la coiffe de rotateurs a un role important dans la stabilisation de l'articulation gléno-humérale instable par nature 
 ![[Pasted image 20230114125124.png]]
-### sus-épineux
+#### sus-épineux
 - nait dans la fosse épineuse de l'omoplate donne un tendon qui passe sous la voute formee par l'acromion l'apophyse coracoide et le ligament qui les reunit et se termine sure le trochiter . Son action est l'abduction d bras couplée a celle du deltoïde 
 ![[Pasted image 20230114125055.png]]
-### sous-épineux 
+#### sous-épineux 
 - nait la fosse sous-épineuse .Son tendon passe sur la capsule de l'articulation scapulo humérale et se temine sure le trochiter . Son action est la rotaion externe de l'humérus .
 ![[Pasted image 20230114125107.png]]
-### Sous-scapulaire 
+#### Sous-scapulaire 
 - nait de la face profonde de l'omoplate puis ses fibres convergent pour former un tendon qui se termine sure la partie haute de l'humérus. Son action est rotateur interne du bras 
 ![[Pasted image 20230114125754.png]]
-### Petit rond (Teres minor )
+#### Petit rond (Teres minor )
 - nait de la fosse sous-épineux et se termine sur le trochiter en arriére du sous-épineux. Son action est la rotaion externe de l'humérus 
 ![[Pasted image 20230114125807.png]]
 

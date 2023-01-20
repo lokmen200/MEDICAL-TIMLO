@@ -28,3 +28,4 @@ cards-deck: ANATOMIE::QCM ANTOMIE
 ![[Pasted image 20230112103235.png]]
 ----
 ![[Pasted image 20230112103557.png]]
+![[Pasted image 20230120162743.png]]

@@ -26,6 +26,11 @@ cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'EPAULE
 ![[Pasted image 20230120151616.png]]
 ![[Pasted image 20230120151627.png]]
 ![[Pasted image 20230120151642.png]]
+### Rohmboide 
+- Petit rhomboide son origine est sure le processus épineux ders vertébres cervicales C7 a T1 il se termine sur le bord médial de la scapula 
+- grand rhomboide est un muscle plat compris entre les processus épineux des vertébres C6 a T4  etle bord spinal de la scapula 
+- Elévateur et adducteur de l'omoplate qu'il colle contre la cage thoracique 
+![[Pasted image 20230114124001.png]]
 ![[muscle de l'epaule(1)_page-0004.jpg]]
 ^1674224443896
 
@@ -38,7 +43,8 @@ cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'EPAULE
 # GORUPE MEDIAL 
 #card 
 - Un seule muscle le dentelé antérieur
-![[Pasted image 20230120152011.png]]![[muscle de l'epaule(1)_page-0006.jpg]]
+- ![[Pasted image 20230120152011.png]]
+![[muscle de l'epaule(1)_page-0006.jpg]]
 ^1674224510760
 
 
