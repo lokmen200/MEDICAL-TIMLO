@@ -26,4 +26,5 @@ cards-deck: BIOSTAT::PROBABILITÉ
 ![[Pasted image 20230120005515.png]]
 
 ![[Pasted image 20230120005629.png]]
+![[Pasted image 20230120010801.png]]
 ![[Chapitre-03-Probabilités.pdf]]
