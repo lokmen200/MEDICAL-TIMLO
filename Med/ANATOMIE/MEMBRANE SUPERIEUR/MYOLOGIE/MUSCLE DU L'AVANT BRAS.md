@@ -7,13 +7,12 @@ Present dans le coure : YES
 Étudiée : NO
 tag: ANTOMIE MYOLOGIE MEMBRANE_SUPERIEUR
 CREATED: YES
-cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'AVANT BRAS
+cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'AVANT BRAS COURS
 ---
 ```toc
 ```
 
 # Rappel et notion general 
-#card 
 ![[Pasted image 20230114203318.png]]
 - Selon la forme du corps charnu on peut distinguer différents muscles :
 - Les muscles longs..
@@ -21,14 +20,10 @@ cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'AVANT BRAS
 - Le muscle ne présente pas de tendon à une ou à ses 2 extrémités. Les fibres s’insèrent directement sur une grande surface. ¤ Les muscles courts. Le corps charnu est court et il ne possède pas de tendons donc les fibres s’insèrent directement sur une surface. ¤ Les muscles annulaires
 ![[Pasted image 20230114203230.png]]
 ![[Pasted image 20230114203251.png]]
-^1673736981157
-
 # notion de loges musculaire
-#card 
 - 2 loges musculaire 
 ![[Pasted image 20230114203527.png]]
 ![[Pasted image 20230114203508.png]]
-^1673736981347
 
 ## loge musculaire ventrale
 ![[Pasted image 20230114203613.png]]

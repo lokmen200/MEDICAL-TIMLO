@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e993834d5afc041",
+            "id": "4dc4730724a671e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOSTAT/PROBABILITÉ.md",
+                "file": "NOTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b8f8517165b89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922
+    "width": 323.5110321044922
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOSTAT/PROBABILITÉ.md",
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOSTAT/PROBABILITÉ.md",
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOSTAT/PROBABILITÉ.md"
+                "file": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md"
               }
             }
           },
@@ -195,17 +208,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8e993834d5afc041",
+  "active": "d9b8f8517165b89e",
   "lastOpenFiles": [
-    "Med/BIOSTAT/IMAGES/Pasted image 20230120003949.png",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
+    "NOTS.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md",
+    "dentelé antérieur.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
     "Med/BIOSTAT/PROBABILITÉ.md",
-    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
-    "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
-    "templates/MED TEMPLATER.md",
-    "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf",
-    "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md",
-    "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    "Med/BIOSTAT/IMAGES/Pasted image 20230120003949.png",
+    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
   ]
 }
