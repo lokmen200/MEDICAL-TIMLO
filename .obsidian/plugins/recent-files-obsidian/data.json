@@ -5,6 +5,10 @@
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md"
     },
     {
+      "basename": "Pasted image 20230120184636",
+      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184636.png"
+    },
+    {
       "basename": "MUSCLE DU BRAS",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU BRAS.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "LA GLYCOLYSE",
       "path": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md"
-    },
-    {
-      "basename": "GLYCOGÈNE",
-      "path": "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md"
-    },
-    {
-      "basename": "INTRODUCTION SUR LA MYOLOGIE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/INTRODUCTION SUR LA MYOLOGIE.md"
     }
   ],
   "omittedPaths": [],
