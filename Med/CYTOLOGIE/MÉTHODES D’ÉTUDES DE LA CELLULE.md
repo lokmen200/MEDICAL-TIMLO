@@ -44,7 +44,8 @@ cards-deck: CYTOLOGIE::MÉTHODES D’ÉTUDES DE LA CELLULE
 - Description structurale des tissus et des cellules .
 - Taille , Forme cellulaire et tissulaire .
 - Forme et position des noyaux.
-- La microscopie photonique est utilisée aussi pour l’observation de différentes formes bactériennes après coloration de [[ORGANISATION GÉNÉRALE DE LA CELLULE#La paroi|paroi]]![[Pasted image 20221102115131.png]]
+- La microscopie photonique est utilisée aussi pour l’observation de différentes formes bactériennes après coloration de [[ORGANISATION GÉNÉRALE DE LA CELLULE#La paroi|paroi]]
+![[Pasted image 20221102115131.png]]
 ^1669389940593
 
 ### Les étapes préparatoires d’un échantillon en vue d’une observation (la technique histologique ) 
@@ -66,15 +67,15 @@ cards-deck: CYTOLOGIE::MÉTHODES D’ÉTUDES DE LA CELLULE
 #### Le microscope photonique à fluorescence
 #card 
 ##### Principe de fonctionnement
-- Le microscope photonique à fluorescence = type de microscope qui détecte une lumière [[MÉTHODES D’ÉTUDES DE LA CELLULE#Fluroescente]]
+- Le microscope photonique à fluorescence = type de microscope qui détecte une lumière [[MÉTHODES D’ÉTUDES DE LA CELLULE#Fluroescente|Fluroescente]]
 - microscope optique qui porte deux filtres interposés entre l’ échantillon coloré par des molécules fluorescentes, appelées fluorochromes : 
 	- Le premier filtre ne laisse passer que la lumière qui excite le fluorochrome. 
 	- Le deuxième filtre ne laisse passer que la lumière émise par le fluorochrome.
-##### Optique simplifiée du microscope à [[MÉTHODES D’ÉTUDES DE LA CELLULE#Fluroescente]]
+##### Optique simplifiée du microscope à [[MÉTHODES D’ÉTUDES DE LA CELLULE#Fluroescente|Fluroescente]]
 1 - Une source lumineuse
 2 - 1 Filtre d’excitation =ne laisse passer que la longueur d’onde d’excitation
 3 - Un miroir dichroïque =réfléchi la longueur d’onde d’excitation mais laisse passer la longueur d’onde d’ émission
-6 - 1 filtre d’émission = sélectionne la longueur d’onde émise par le [[MÉTHODES D’ÉTUDES DE LA CELLULE#Définir un fluorochrome ou fluo marqueur]]
+6 - 1 filtre d’émission = sélectionne la longueur d’onde émise par le [[MÉTHODES D’ÉTUDES DE LA CELLULE#Définir un fluorochrome ou fluo marqueur|Fluroescente]]
 ![[Pasted image 20221102121022.png]]
 [youtube video to explain this ](https://www.youtube.com/watch?v=-HwG98 CUpUc&t=21s)
 ^1669389940734

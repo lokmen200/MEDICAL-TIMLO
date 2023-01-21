@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "000a0939a383ed3a",
+        "id": "c33f847a7334c8ad",
         "type": "tabs",
         "children": [
           {
-            "id": "cc396554a6a9b522",
+            "id": "2d0edf5d41ca864e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md",
+                "file": "Med/CYTOLOGIE/ORGANISATION GÉNÉRALE DE LA CELLULE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94fb5c8ecdec9975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd7a76b5ed72cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md",
+                "file": "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md",
+                "file": "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md"
+                "file": "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md"
               }
             }
           },
@@ -196,17 +221,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cc396554a6a9b522",
+  "active": "1fd7a76b5ed72cf5",
   "lastOpenFiles": [
+    "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
+    "Med/CYTOLOGIE/ORGANISATION GÉNÉRALE DE LA CELLULE.md",
+    "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
+    "Med/CYTOLOGIE/LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE.md",
+    "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
+    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md",
     "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
     "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
     "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184702.png",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184646.png",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184636.png",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU BRAS.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120180129.png",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md"
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184702.png"
   ]
 }
