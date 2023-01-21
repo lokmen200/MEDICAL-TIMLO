@@ -96,7 +96,7 @@ d
 
 ### Apparition de la motilité des spermatozoïdes
 #card 
-- La motilité des spermatozoïdes apparait au cours du passage dans <mark style="background: #FF5582A6;">l’épididyme</mark>. 
+	- La motilité des spermatozoïdes apparait au cours du passage dans <mark style="background: #FF5582A6;">l’épididyme</mark>. 
 ^1670938399580
 
 

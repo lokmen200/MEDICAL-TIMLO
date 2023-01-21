@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE",
+      "path": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md"
+    },
+    {
+      "basename": "1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE",
+      "path": "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
+    },
+    {
+      "basename": "STATISTIQUES DESCRIPTIVES",
+      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+    },
+    {
       "basename": "LE MUSCLE DE L'AVANT BRAS",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "PROBABILITÉ",
       "path": "Med/BIOSTAT/PROBABILITÉ.md"
-    },
-    {
-      "basename": "STATISTIQUES DESCRIPTIVES",
-      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
     },
     {
       "basename": "LOI BINOMIALE ET LOI NORMALE",
@@ -191,10 +199,6 @@
     {
       "basename": "LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION)",
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md"
-    },
-    {
-      "basename": "LA GLYCOLYSE",
-      "path": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md"
     }
   ],
   "omittedPaths": [],
