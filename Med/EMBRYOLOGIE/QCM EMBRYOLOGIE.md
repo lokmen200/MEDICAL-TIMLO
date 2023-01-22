@@ -14,6 +14,7 @@ cards-deck: EMBRYOLOGIE::QCM EMBRYOLOGIE
 ```toc
 ```
 - caryogamie Fusion des noyaux mâle et femelle à la suite de la fécondation, lorsque cette fusion est retardée par rapport à celle des gamètes, ou cytogamie. (C'est le cas chez les champignons supérieurs ; dans les autres groupes, la fusion des noyaux est plus souvent appelée amphimixie.)
+- plasmogamie spermatzoide entre l'ovocyte apres travers la zone pellucide 
 ![[Pasted image 20230121112122.png]]
 ![[Pasted image 20230121112538.png]]
 ![[Pasted image 20230121233800.png]]
