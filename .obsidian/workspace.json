@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/CYTOLOGIE/ORGANISATION GÉNÉRALE DE LA CELLULE.md",
+                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/INTRODUCTION À L’EMBRYOLOGIE.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29530792e49af67a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LA SPERMATOGENESE.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
+                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
+                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md"
+                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md"
               }
             }
           },
@@ -221,17 +233,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1fd7a76b5ed72cf5",
+  "active": "94fb5c8ecdec9975",
   "lastOpenFiles": [
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LA SPERMATOGENESE.md",
     "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md",
+    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/INTRODUCTION À L’EMBRYOLOGIE.md",
+    "Med/CYTOLOGIE/LES MOLÉCULES D’ADHÉRENCE CELLULAIRE.md",
+    "Med/CYTOLOGIE/ORGANISATION GÉNÉRALE DE LA CELLULE.md",
     "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
     "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
     "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
-    "Med/CYTOLOGIE/LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE.md",
-    "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
-    "Med/CYTOLOGIE/ORGANISATION GÉNÉRALE DE LA CELLULE.md",
-    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/SPERMATOZOÏDE, STRUCTURE ET BIOLOGIE.md",
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
+    "Med/CYTOLOGIE/LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE.md"
   ]
 }

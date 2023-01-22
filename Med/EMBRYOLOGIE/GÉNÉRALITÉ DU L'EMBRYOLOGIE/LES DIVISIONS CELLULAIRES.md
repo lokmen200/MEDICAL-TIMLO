@@ -17,7 +17,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 #card
 - Le cycle cellulaire correspond à l’ensemble des <mark style="background: #FF5582A6;">modifications</mark> que subit une cellule lors de sa formation.Il se compose de<mark style="background: #FF5582A6;"> [[LES DIVISIONS CELLULAIRES#l’interphase|l’interphase]] et de la division cellulaire ([[LES DIVISIONS CELLULAIRES#mitose|mitose]] ou [[LES DIVISIONS CELLULAIRES#méiose|méiose]]).</mark>
 ![[Pasted image 20221101104354.png]]
-^1671625144916
+^1674392498050
+
 
 # L’interphase 
 #card 
@@ -40,7 +41,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 ## La phase G2
 - C’est une phase de <mark style="background: #FF5582A6;">repos post synthètique</mark>
 - Cette phase constitue un espace de sécurité permettant à la cellule de <mark style="background: #FF5582A6;">vérifier que tout est prêt pour l’entrée en mitose</mark>.
-^1671625144960
+^1674392498184
+
 
 
 # Mitose 
@@ -48,8 +50,7 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 #card 
 - la mitose concerne les [[ORGANISATION GÉNÉRALE DE LA CELLULE#Cellule eucaryote|Cellule eucaryote]] (cellule à noyau). C'est la division d'une cellule mère en <mark style="background: #FF5582A6;">deux cellules filles strictement identiques génétiquement</mark>. C’est une division qui concerne les <mark style="background: #FF5582A6;">cellules somatiques</mark>
 ![[DiapoDr.BOUDIAF_20_25.png]]
-^1671625144984
-
+^1674392498320
 
 ## Rôle de la mitose 
 #card 
@@ -61,7 +62,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 	5. Pour assurer la cicatrisation
 	6. Parfois malheureusement, à cause de dérèglements : les cancers
 ![[Pasted image 20221106162329.png]]
-^1671625145067
+^1674392498479
+
 
 
 ## Les etape de Mitose 
@@ -101,7 +103,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 - Le <mark style="background: #FF5582A6;">nucléole apparaît dans chaque nouveau noyau</mark>.
 ![[DiapoDr.BOUDIAF_19_22.png]]
 ![[DiapoDr.BOUDIAF_19_57.png]]
-^1671625145126
+^1674392498790
+
 
 
 # Méiose
@@ -114,7 +117,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 - <mark style="background: #FFF3A3A6;">La première division</mark> (la division réductionnelle ou hétérotopique) produit 2 <mark style="background: #FF5582A6;">cellules filles diploïdes à 2n = 46 chromosomes</mark>
 - <mark style="background: #FFF3A3A6;">La deuxième division</mark> (la division équationnelle ou homotypique) produit un total de <mark style="background: #FF5582A6;">4 cellules filles haploïdes n = 23.</mark>
 ![[Pasted image 20221106174845.png]]
-^1671625145176
+^1674392499088
+
 
 
 ## Les etape de Méiose 
@@ -122,7 +126,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 - La méiose comprend deux divisions successives et inséparable précédée d’ une seule réplication de l’ADN ,a partir d’ une cellule diploïde.
 - <mark style="background: #FFF3A3A6;">la 1ere division méiotique dite réductionnelle</mark> : passage de 2n chromosomes doubles a n chromosomes doubles
 - <mark style="background: #FFF3A3A6;">la 2eme division méiotique dite équationnelle</mark> : passage de n chromosomes doubles a n chromosomes simples(séparation des chromatides) La méiose permet ainsi la formation de <mark style="background: #FF5582A6;">4 cellules filles haploïdes ou( gamètes)</mark>
-^1671625145205
+^1674392499272
+
 
 ## 1ère division réductionnelle
 #card 
@@ -147,7 +152,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 ### Télophase 1
 - <mark style="background: #FF5582A6;">Séparation</mark> de la cellule initiale en deux cellules filles renfermant <mark style="background: #FF5582A6;">chacune n chromosomes à deux chromatides.</mark>
 ![[Pasted image 20221106194355.png]]
-^1671625145239
+^1674392499462
+
 
 
 ## 2ème division équationnelle 
@@ -162,7 +168,8 @@ cards-deck: EMBRYOLOGIE::GÉNÉRALITÉ DU L'EMBRYOLOGIE::LES DIVISIONS CELLULAIR
 ## Télophase II 
 - Séparation des cellules en <mark style="background: #FF5582A6;">4 cellules de n chromosomes à 1 chromatide</mark>.
 ![[Pasted image 20221101122641.png]]
-^1671625145273
+^1674392499638
+
 
 
 | MITOSE| MEIOSE|
