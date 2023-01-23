@@ -35,3 +35,7 @@ cards-deck: EMBRYOLOGIE::QCM EMBRYOLOGIE
 ![[Pasted image 20230122001815.png]]
 ![[Pasted image 20230122185407.png]]
 ![[Pasted image 20230122191106.png]]
+![[Pasted image 20230122192723.png]]
+![[Pasted image 20230122194214.png]]
+![[Pasted image 20230122194317.png]]
+![[Pasted image 20230122194436.png]]
