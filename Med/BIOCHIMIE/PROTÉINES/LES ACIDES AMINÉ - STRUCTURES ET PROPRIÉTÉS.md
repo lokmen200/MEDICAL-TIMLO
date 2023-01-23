@@ -82,7 +82,6 @@ Lysine, arginine et histidine
 - <mark style="background: #FFB8EBA6;">Glycolle, alanine, valine, leucine, isoleucine, méthionine, phénylalanine, tryptophane et proline</mark>
 ^1673814680034
 
-
 # Les acides aminés essentiels
 #card 
 - Les acides aminés non indispensables peuvent être synthétisés par l’organisme par des réactions simples en utilisant des <label class="ob-comment" title="" style=""> précurseurs <input type="checkbox"> <span style="">Molécule organique simple participant à la synthèse des grosses molécules</span></label> métaboliques.
@@ -99,8 +98,7 @@ Lysine, arginine et histidine
 
 # Les acides non α - amines
 #card 
-- Les autres Aa, Les acides non α -aminés : Ils ne sont pas constitutifs des protéines mais peuvent intervenir dans le métabolisme, ou comme<label class="ob-comment" title="" style=""> neurotransmetteurs <input type="checkbox"> <span style="">   
-Substance qui assure la transmission de l'influx nerveux </span></label>
+- Les autres Aa, Les acides non α -aminés : Ils ne sont pas constitutifs des protéines mais peuvent intervenir dans le métabolisme, ou comme neurotransmetteurs 
 - L’acide glutamique peut être décarboxylé en acide γ-aminobutyrique (GABA, neurotransmetteur)
 - L’histidine peut être décarboxylée en histamine (neuromédiateur, impliquée dans les phénomènes allergiques)
 - Des Aa modifiés après traduction : <mark style="background: #FFB8EBA6;">hydroxyproline, hydroxylysine, phosphosérine</mark>
