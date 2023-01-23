@@ -5,6 +5,14 @@
       "path": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
     },
     {
+      "basename": "QCM PROTÉINES",
+      "path": "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md"
+    },
+    {
+      "basename": "HELP BIOCHIMIE",
+      "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
+    },
+    {
       "basename": "QCM GLUCIDES",
       "path": "Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "LE CYCLE DE KREBS",
       "path": "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md"
-    },
-    {
-      "basename": "HELP BIOCHIMIE",
-      "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
     },
     {
       "basename": "INTRODUCTION À L’EMBRYOLOGIE",
@@ -195,10 +199,6 @@
     {
       "basename": "02-le systeme squelettique",
       "path": "Created PDFs/02-le systeme squelettique.pdf"
-    },
-    {
-      "basename": "acides aminés  1ere année médecine.pptx",
-      "path": "Created PDFs/acides aminés  1ere année médecine.pptx.pdf"
     }
   ],
   "omittedPaths": [],
