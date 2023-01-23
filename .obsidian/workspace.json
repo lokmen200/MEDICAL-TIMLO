@@ -4,59 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "c33f847a7334c8ad",
+        "id": "d8024af0e431fdaf",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0edf5d41ca864e",
+            "id": "4186a2754028a9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/INTRODUCTION À L’EMBRYOLOGIE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94fb5c8ecdec9975",
+            "id": "3a505a1264315248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "29530792e49af67a",
+            "id": "674b359bc9feea42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1fd7a76b5ed72cf5",
+            "id": "ed9f904264983535",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07890c9fe88756d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebc28197ae350816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md"
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md"
               }
             }
           },
@@ -233,17 +257,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1fd7a76b5ed72cf5",
+  "active": "3a505a1264315248",
   "lastOpenFiles": [
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/3EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
-    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/OVULATION ET OVOCYTE.md",
-    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md",
+    "Med/BIOCHIMIE/null.md",
+    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
     "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/INTRODUCTION À L’EMBRYOLOGIE.md",
-    "Med/EMBRYOLOGIE/QCM EMBRYOLOGIE.md",
-    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LA SPERMATOGENESE.md",
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
-    "Med/CYTOLOGIE/LES MOLÉCULES D’ADHÉRENCE CELLULAIRE.md",
-    "Med/CYTOLOGIE/ORGANISATION GÉNÉRALE DE LA CELLULE.md",
-    "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md"
+    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md"
   ]
 }

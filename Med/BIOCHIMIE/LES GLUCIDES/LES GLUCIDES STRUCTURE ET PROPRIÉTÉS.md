@@ -42,10 +42,10 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LES GLUCIDES STRUCTURE ET PROPRIÉTÉS
 ## Energétique
 - Production d’<mark style="background: #FF5582A6;">énergie (ATP)</mark> Reserve énergétique (amidon - glycogène)
  ![[Pasted image 20221121122135.png]]
-## CLASSIFICATION DU GLUCIDES 
 ^1672156789042
 
-
+## CLASSIFICATION DU GLUCIDES 
+#card 
 ![[Pasted image 20221121122653.png]]
 ^1672146835445
 
@@ -92,8 +92,6 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LES GLUCIDES STRUCTURE ET PROPRIÉTÉS
 - Le <mark style="background: #FF5582A6;">carbone portant le groupement carbonyle</mark> a toujours le <mark style="background: #FF5582A6;">numéro le plus petit</mark>, à savoir : 
 	- <mark style="background: #FF5582A6;">N° 1 → ALDOSE N° 2 → CETOSE</mark>
 	![[Pasted image 20221121124343.png]]
-^1672146835577
-
 ### Filiation des oses
 #### Synthèse de KILIANI FISHER
 - À partir du Glycéraldéhyde (D ou L), on peut <mark style="background: #FF5582A6;">augmenter le nombre d’atomes de carbone</mark> de la chaine, en l’allongeant par son extrémité C1; 
@@ -102,7 +100,8 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LES GLUCIDES STRUCTURE ET PROPRIÉTÉS
 ##### Filiation des Aldohéxose de la série D
 ![[Pasted image 20221121124636.png]]
 ##### Filiation des Cétohexose de la série D
-![[Pasted image 20221121124654.png]]
+![[Pasted image 20221^1674473081716
+121124654.png]]
 
 ### Séries D et L
 #card
@@ -134,6 +133,7 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LES GLUCIDES STRUCTURE ET PROPRIÉTÉS
 ^1672146835682
 
 ## Structure Cyclique des Oses
+#card 
 ### Objection à la structure linéaire des oses 
 - La forme linéaire n’explique pas certaines réactions chimiques des oses en solution , par exemple :
 	-  <mark style="background: #D2B3FFA6;">le réactif de SCHIFF</mark>.
@@ -143,9 +143,7 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LES GLUCIDES STRUCTURE ET PROPRIÉTÉS
  ![[Pasted image 20221121125941.png]]
 - Un aldose ou un cétose ne fixent qu'une seule molécule d'alcool 
  ![[Pasted image 20221121125952.png]]
-
 ### Représentation de la forme cyclique
-#card 
 En solution les oses sont essentiellement présents sous <mark style="background: #FF5582A6;">forme cyclique</mark>. 
 - L’angle des liaisons<mark style="background: #FF5582A6;"> C-C du squelette</mark> du sucre rapprochent la fonction <mark style="background: #FF5582A6;">-C=O des fonctions -OH de carbones 4 et 5</mark>.
 - La fonction <mark style="background: #FF5582A6;">-C=O réagit avec une fonction -OH pour former un <label class="ob-comment" title="" style=""> hémi-acétal <input type="checkbox"> <span style=""> Un hémiacétal ou un hémicétal a la formule générale R¹R²COR, où R¹ ou R² est un hydrogène ou un substituant organique. Ils résultent généralement de l'addition d'un alcool à un aldéhyde ou à une cétone, bien que ces derniers soient parfois appelés hémicétals. La plupart des sucres sont des hémiacétals</span></label></mark>. 

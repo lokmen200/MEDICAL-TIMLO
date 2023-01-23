@@ -2,13 +2,12 @@
 tag :favorit
 ---
 ----
-- Enantiomères ::: Image en miroir
-- Épimères ::: Different d'un seul configuration du C* et ne sont pas des images en miroir
-- Énantiomères ::: Les isomères optiques
-- Stéréoisomères ::: Les anomères α et β
-
+- Enantiomères Image en miroir
+- Épimères Different d'un seul configuration du C* et ne sont pas des images en miroir
+- Énantiomères Les isomères optiques
+- Stéréoisomères Les anomères α et β
+- anioniques
 les isomerie en generale
-?
 ![[Pasted image 20221227161741.png]]
 
 ----
