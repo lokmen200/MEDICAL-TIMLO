@@ -13,7 +13,8 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LA GLYCOLYSE
 ```toc
 ```
 
-# Introduction  
+# Introduction La glycolyse
+#card 
 - Le métabolisme correspond à l’ensemble des réactions biochimiques qui se produisent au sein d’une cellule, et qui permettent la réalisation de multiples réactions cellulaires. 
 - Le métabolisme se divise en deux types de voies : 
 	- <mark style="background: #FFF3A3A6;">Anabolisme :</mark> correspond aux <mark style="background: #FF5582A6;">synthèses</mark>. 
@@ -22,39 +23,38 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LA GLYCOLYSE
 - L’étude du métabolisme des glucides s’appuie essentiellement sur celui du glucose.
 - La connaissance des bases biochimiques du métabolisme glucidique permet de comprendre le mécanisme de nombreuses maladies comme le diabète, l’intolérance au galactose ou au fructose, les glycogénoses,…
 - Le terme de glycolyse dérive de la racine greque gluk : sucrée, et lysis <mark style="background: #FF5582A6;">dissolution</mark> en d’autre terme il s’agit de la <mark style="background: #FF5582A6;">dégradation du glucose</mark> 
-
 ## Catabolisme
  - Réactions qui aboutissent à la <mark style="background: #FF5582A6;">dégradation des molécules actives in vivo et la récupération de l’énergie</mark>.
 	![[lesglucidesmétabolisme_4_507.png]] 
 ## Anabolisme 
 - Réactions destinées à la<mark style="background: #FF5582A6;"> synthèse des molécules</mark> grâce à l’énergie récupérée par les réactions cataboliques.
 	![[lesglucidesmétabolisme_4_527.png]]
+^1674483229708
 
 # DIGESTION ET ABSORPTION DES GLUCIDES
+#card 
  - La digestion correspond à la transformation des  aliments en nutriments  assimilables par l’organisme. 
 - Au niveau de la bouche, les aliments sont mastiqués, coupés en petits morceaux et  écrasés par les dents, en même temps imprégnés de salive et  humidifiés. Cet amalgame  de bouchées liées par la  salive est appelé bol alimentaire, poussé par les mouvements de la langue vers le fond de la bouche pour être avalé.
 - Le suc gastrique très acide (PH<2)transforme les aliments en chyme semi-liquide acceptable par l’intestin grêle. 
 - Dans le tube digestif, les aliments  subissent une série de dégradations mécaniques et chimiques qui les modifient en éléments nutritifs ; ces produits résultant de la digestion sont suffisamment petits pour traverser la paroi intestinale et  passent ainsi dans le sang et dans la lymphe : c'est l'absorption.
-
 ## L’Entérocyte (unité fonctionnelle)
 - Les cellules de la bordure en brosse, dont le pole apical est formé de microvillosités (600 à 2000), 
 - ces cellules jouent un rôle capital dans la digestion des nutriments vu qu’elles renferment  au niveau de leurs  membranes des enzymes telles que les peptidases et les disaccharidases
-
 ## Digestion et  absorption des glucides 
 ![[lesglucidesmétabolisme_8_316.png]]
 ![[lesglucidesmétabolisme_9_250.png]]
 ![[lesglucidesmétabolisme_10_240.png]]
 ![[lesglucidesmétabolisme_11_240.png]]
+^1674483229828
 
 # LA GLYCOLYSE
+#card 
 ![[lesglucidesmétabolisme_14_278.png]]
-
 ## HISTORIQUE
 - Gustave Embden Né 10 novembre 1874 Hambourg en  Allemagne ,était un médecin allemand (physiologiste ou biochimiste);décédé le 25 juillet 1933 (58 ans), 
 - Otto Fritz Meyerhof (12 avril 1884 - 6 octobre 1951) était un médecin et biochimiste allemand de parents juifs qui a remporté le prix Nobel de physiologie et médecine en 1922 pour ses travaux sur le métabolisme musculaire, y compris la glycolyse
 - Jakub Karol Parnas (né le 16 janvier 1884  ; décédé le 29 janvier 1949 à Moscou ) était un biochimiste polono - soviétique . 
 - Avec Gustav Embden et Otto Meyerhof , il a clarifié le mécanisme de la glycolyse en 1929 , également connu sous le nom d'Embden-Meyerhof-Parnas
-
 ## Définition
 - La glycolyse = voie d’EMBDEN MEYERHOF-PARNAS 
 - La voie du catabolisme <mark style="background: #FF5582A6;">oxydatif anaérobie du glucose (C6) en Pyruvate (C3)</mark>
@@ -69,7 +69,6 @@ flowchart TD
 	- Le glucose est une molecule formé de 6 carbonnes , une 1ere question qu’on peut se pose avant d’aller plus dans reaction c’est l’origine de ce glucose , d’où vient-il?
 	- Il a plusieurs origine il peut provenir de votre <mark style="background: #FF5582A6;">alimentation</mark> , apres digestion vous formez des nutriments dont le glucose fait partie et ce glucose arrive dans le sang et distribué dans tt l’organisme , les cellules peuvent le recupere dans le cytolplasme grace a des <mark style="background: #FF5582A6;">transporteurs membranaire</mark> de type permease il existe de nomreux vous avez par <mark style="background: #D2B3FFA6;">exemple le transporteur GLUT</mark> 
 	- Mais ce glucose peut aussi provenir des <mark style="background: #FF5582A6;">resrves</mark> déjà presentes dans la cellule comme par <mark style="background: #D2B3FFA6;">exemple le glycogene</mark>  
-  
 ### Source du glucose
 ![[source du glucose.png]]
 ## Localisation 
@@ -78,6 +77,7 @@ flowchart TD
 - Les GR et le cerveau : tissus glucodépendants(n’utilisent que le glucose).?
 - <mark style="background: #FFF3A3A6;"> Intérêt</mark>
 ![[lesglucidesmétabolisme_20_295.png]]
+^1674483229964
 
 ## Étapes de la Glycolyse
 #card 

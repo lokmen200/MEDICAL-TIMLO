@@ -21,6 +21,10 @@ cards-deck: BIOCHIMIE::LES GLUCIDES::LA NEOGLUCOGENESE
 	- <mark style="background: #FFF3A3A6;">Le Glycérol</mark> : provient de l’hydrolyse des triglycérides dans les cellules adipeuses
 - • Ces précurseurs entrent dans cette voie principalement sous forme de: <mark style="background: #FF5582A6;">Pyruvate Oxalo acétate Dihydroxy acétone phosphate</mark>
 - La néoglucogénèse <mark style="background: #FF5582A6;">n’est pas l’inverse de la [[LA GLYCOLYSE]]</mark>
+- Elle est particulièrement importante:
+	- En période de jeûne ( AA – glycérol ).
+	- Exercices violents ( lactate ). 
+	- lors du diabète (exacerbation pathologique) 
 # LOCALISATION
 - Cortex rénal : 10% et l’épithélium intestinal
 - Foie : 90% du glucose néoformé

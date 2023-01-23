@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07890c9fe88756d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md"
+                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md"
               }
             }
           },
@@ -257,16 +245,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3a505a1264315248",
+  "active": "674b359bc9feea42",
   "lastOpenFiles": [
+    "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
     "Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md",
     "Med/BIOCHIMIE/null.md",
     "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
     "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
     "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/INTRODUCTION À L’EMBRYOLOGIE.md",
     "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LES DIVISIONS CELLULAIRES.md"
   ]
