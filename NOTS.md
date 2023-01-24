@@ -15,26 +15,26 @@
 - [x] Les Acides aminé - structures et propriétés
 - [x] Les protides et les protéines - structures et propriétés
 - [x] Détermination de la structure des acides aminés
-- [ ] Les acides aminés - métabolisme
+- [x] Les acides aminés - métabolisme
 - [ ] Enzymologie
 # ANATOMIE 
 - [x] Le système musculaire
-- [ ] Muscle de l'épaule et du bras
-- [ ] Les muscles de l'avant bras
+- [x] Muscle de l'épaule et du bras
+- [x] Les muscles de l'avant bras
 - [ ] Vascularisation du membre supérieur "Artère axillaire"
 - [ ] Artère brachiale
 # CYTOLOGIE
 - [x] Méthodes d'études de la cellule
 - [x] La membrane plasmique  Structure
-- [ ] Les specialisations morphologiques de la membrane plasmique
-- [ ] Les molécules d'adhérence cellulaire
+- [x] Les specialisations morphologiques de la membrane plasmique
+- [x] Les molécules d'adhérence cellulaire
 - [ ] Les transports membranaires
 - [ ] Hyaloplasme et Cytosquelette
 - [ ] Communication intercellulaire
 # BIOSTAT
-- [ ] Statistiques descriptives
-- [ ] Loi binomiale et loi normale
+- [x] Statistiques descriptives
+- [x] Loi binomiale et loi normale
 - [ ] Probabilités
 # BIOPHYSIQUE
-- [ ] Electricite et bioélectricité
+- [x] Electricite et bioélectricité
 - [x] Biophysique des solutions et applications médicales

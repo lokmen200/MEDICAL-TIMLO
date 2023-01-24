@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d8024af0e431fdaf",
+        "id": "6a204b28476d0a92",
         "type": "tabs",
         "children": [
           {
-            "id": "4186a2754028a9f6",
+            "id": "d6b82f1f80fc8307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a505a1264315248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "674b359bc9feea42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed9f904264983535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc28197ae350816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfcedd21f0dab2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
+                "file": "CYTO NOTES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5110321044922,
+    "width": 217.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -163,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+                "file": "CYTO NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+                "file": "CYTO NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+                "file": "CYTO NOTES.md"
               }
             }
           },
@@ -257,17 +196,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ebc28197ae350816",
+  "active": "d6b82f1f80fc8307",
   "lastOpenFiles": [
-    "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md",
+    "Med/NOTE STATS.md",
+    "Med/Repeat.md",
+    "IMAGES/Pasted image 20221227161741.png",
     "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
     "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md"
+    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
+    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "NOTS.md",
+    "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
   ]
 }
