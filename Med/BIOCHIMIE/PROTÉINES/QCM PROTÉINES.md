@@ -10,9 +10,10 @@ tag: BIOCHIMIE
 CREATED: YES
 cards-deck: BIOCHIMIE::PROTÉINES::QCM PROTEINES
 ---
+
 ```toc
 ```
-
+![[Pasted image 20230125000324.png]]
 ![[Pasted image 20230123220109.png]]
 ![[Pasted image 20230123220236.png]]
 ![[Pasted image 20230123220612.png]]

@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "6a204b28476d0a92",
+        "id": "86e5b1379021e3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b82f1f80fc8307",
+            "id": "f1431388af62c1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYTO NOTES.md",
+                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5778db21934ae65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HELP BIOPHYSIQUE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ece7eefaed8bf1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYTO NOTES.md",
+                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYTO NOTES.md",
+                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYTO NOTES.md"
+                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md"
               }
             }
           },
@@ -196,17 +220,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d6b82f1f80fc8307",
+  "active": "f1431388af62c1a1",
   "lastOpenFiles": [
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
+    "HELP BIOPHYSIQUE.md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
+    "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
+    "CYTO NOTES.md",
     "Med/NOTE STATS.md",
     "Med/Repeat.md",
     "IMAGES/Pasted image 20221227161741.png",
-    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
-    "Med/BIOCHIMIE/HELP BIOCHIMIE.md",
-    "NOTS.md",
-    "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md"
+    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md"
   ]
 }

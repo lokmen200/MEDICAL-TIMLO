@@ -13,8 +13,7 @@ cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::LES SOLUTION
 ```toc
 ```
 ![[IMG20230114112239.jpg]]
-![[Pasted image 20230114112620.png]]
-![[Pasted image 20230114112642.png]]
+
 # NOTION D’ÉTATS PHYSIQUES
 #card 
 ![[Pasted image 20230112163751.png]]
@@ -55,7 +54,7 @@ cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::LES SOLUTION
 	- <mark style="background: #FF5582A6;">V dépend de la température</mark>
 	- V n’est pas forcément égal à la somme des volumes de constituants (contraction ou dilatation selon la nature attractive ou répulsive des molécules des substances mélangées)
 ### Concentration molaire 
-(ou molarité) <mark style="background: #FF5582A6;">Cm</mark> 
+(ou molarité) <mark style="background: #FF5582A6;">CM</mark> 
 - Elle traduit le rapport du nombre n de moles présentes dans un volume V de solution : Cm = n / V Si M est la masse molaire du soluté et Cp sa concentration pondérale, la molarité Cm s’écrit : Cm = n / V = Cp / M
 <mark style="background: #D2B3FFA6;">Remarques</mark> :
 - La concentration molaire a pour dimension L-3 . 

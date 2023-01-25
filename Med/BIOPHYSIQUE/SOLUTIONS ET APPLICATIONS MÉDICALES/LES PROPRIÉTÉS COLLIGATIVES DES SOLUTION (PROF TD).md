@@ -21,20 +21,11 @@ b. Sa température d’ébullition.
 c. Sa température de congélation
 # Phénomène D’évaporation Et De Condensation
 ## Notion D’équilibre 
-Lorsque le nombre de molécules qui s’évaporent à un instant (𝑡) est égal au nombre de molécules
-qui se condensent, on parle d’équilibre. À l’équilibre la pression au-dessus de l’enceinte est appelée
-la pression de vapeur d’équilibre ou la pression saturante, elle est dite aussi tension de vapeur.
-2.1.4 Définition De La Pression De Vapeur :
-La pression de vapeur notée (P0
-) saturante ou tension de vapeur est la pression à laquelle la phase
-gazeuse de cette substance est en équilibre avec sa phase liquide ou solide. C’est une propriété qui
-dépend uniquement de la température.
-Par exemple la pression de vapeur de l’eau à l’équilibre et à une température ambiante (T = 25° C)
-est de (P0 = 3,2 103 Pa).
-Remarque :
-Il est évident que si la vitesse d’évaporation est supérieure à la vitesse de condensation, tout le liquide
-s’évapore. Et bien sûr si la vitesse de condensation est plus grande que la vitesse d’évaporation, le
-liquide se condense.
+Lorsque le nombre de molécules qui s’évaporent à un instant (𝑡) est égal au nombre de molécules qui se condensent, on parle d’équilibre. À l’équilibre la pression au-dessus de l’enceinte est appelée la pression de vapeur d’équilibre ou la pression saturante, elle est dite aussi tension de vapeur. 
+## Définition De La Pression De Vapeur 
+- La pression de vapeur notée (P0 ) saturante ou tension de vapeur est la pression à laquelle la phase gazeuse de cette substance est en équilibre avec sa phase liquide ou solide. C’est une propriété qui dépend uniquement de la température. Par exemple la pression de vapeur de l’eau à l’équilibre et à une température ambiante (T = 25° C) est de (P0 = 3,2 103 Pa).
+<mark style="background: #D2B3FFA6;">Remarque :</mark>
+- Il est évident que si la vitesse d’évaporation est supérieure à la vitesse de condensation, tout le liquide s’évapore. Et bien sûr si la vitesse de condensation est plus grande que la vitesse d’évaporation, le liquide se condense.
 
 ## Loi De Boyle Mariotte
 ![[Pasted image 20230113121950.png]]

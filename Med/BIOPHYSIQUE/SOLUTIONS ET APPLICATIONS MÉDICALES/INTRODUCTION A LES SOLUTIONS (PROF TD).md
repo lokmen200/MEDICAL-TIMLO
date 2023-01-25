@@ -1,5 +1,4 @@
 ---
-
 Date created : 2023-01-12
 Date of last modefiction : Thursday 12th January 2023 22:22
 Module : BIOPHYSIQUE
@@ -24,10 +23,10 @@ cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::INTRODUCTION A LE
 ## Mouvement De Convection
 - Le mouvement de convection est l'ensemble des mouvements internes générés dans une masse fluide (liquide ou gazeuse). Ces mouvements peuvent être <mark style="background: #FF5582A6;">dûs aux différences de température ou aux différences de densité</mark> entre deux points avoisinants
 
-# Les Transports Actifs :
+# Les Transports Actifs 
 - Le transport actif est le deuxième procédé de déplacement des substances au niveau de la membrane cellulaire. Ce déplacement se fait <mark style="background: #FF5582A6;">contre le gradient</mark> de concentration de la substance en utilisant de l’énergie métabolique générée par la cellule elle-même. On distingue deux types de transport actifs
 ## Transport Actif Primaire (Transport Actif Direct) 
-- L'énergie nécessaire au déplacement de la substance est fournie par la cellule. Cette énergie a pour origine l'hydrolyse d'un nucléotide triphosphate (ATPase). Le transport actif direct est dûes à de grosses molécules incrustées dans la membrane appelées aussi <mark style="background: #FF5582A6;">pompes à ions</mark>.
+- L'énergie nécessaire au déplacement de la substance est fournie par la cellule. Cette énergie a pour origine l'hydrolyse d'un nucléotide triphosphate (ATPase). Le transport actif direct est dûes à de grosses molécules incrustées dans la membrane appelées aussi <mark style="background: #FF5582A6;">pompes à ions</mark>
 - Ces grosses molécules sont des protéines transmembranaires qui permettent de forcer la substance à traverser la membrane contre le gradient de concentration, sans ces protéines le déplacement serait impossible
 ## Transport Actif Secondaire 
 - Contrairement au transport actif primaire, où l’énergie est fournie par la pompe à ions, l'énergie nécessaire au mouvement dans ces types de transport est <mark style="background: #FF5582A6;">fournie par une différence de potentiel électrochimique</mark>. Le gradient de concentration d’une molécule fournit l'énergie nécessaire au transport d'une autre molécule <mark style="background: #FF5582A6;">contre le gradient de concentration de cette dernière</mark>.
@@ -36,7 +35,7 @@ cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::INTRODUCTION A LE
 # Solution
 ## Classifications Des Solutions
 ### Solution Micromoléculaires
-- Lorsque la taille de la molécule dissoute dans la solution est relativement faible, très proche de celle de l’atome qui la constitue, les molécules de la solution sont formées environ d’une dizaine d’atomes, la solution est dite micromoléculaire. Ces solutions peuvent traverser la membrane cellulaire.
+- <mark style="background: #FF5582A6;">Lorsque la taille de la molécule dissoute dans la solution est relativement faible, très proche de celle de l’atome</mark> qui la constitue, les molécules de la solution sont formées environ d’une dizaine d’atomes, la solution est dite micromoléculaire. Ces solutions peuvent traverser la membrane cellulaire.
 ### Solutions Micromoléculaires Neutres
 - Des solutions dans lesquelles les solutés dissous sont des molécules qui se dispersent dans le solvant <mark style="background: #FF5582A6;">sans former d’ions</mark> , Les solutions moléculaires ne sont pas conductrices du courant électrique
 ### Solutions Micromoléculaires Électrolytes
@@ -48,7 +47,7 @@ cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::INTRODUCTION A LE
 - Dans le cas où les grosses molécules sont réparties uniformément dans la solution, elle est dite stable, comme exemple le lait.
 ### Solutions Macromoléculaires Instables 
 - Les solutions macromoléculaires sont instables si les grosses molécules ne sont pas dispersées de façon homogène, elles peuvent se décanter ou précipiter, on peut citer comme exemple le lait caillé
-## Solution Idéales :
+## Solution Idéales 
 - Une solution est dite idéale si les différentes interactions intermoléculaires sont de mêmes intensités. L’interaction solvant-solvant, solvant- soluté, et soluté-soluté sont du même ordre de grandeur. C’est-àdire que la présence du soluté ne modifie pas les forces intermoléculaires du solvant.
 - Une solution tend vers l’idéalité si on la dilue, ainsi l’interaction soluté-soluté, solvant-soluté devient négligeable devant l’interaction solvant-solvant.
 - Une solution est dite vraie lorsque l’on a une dispersion homogène des molécules dans le solvant avec un minimum d’interactions entre elles.
