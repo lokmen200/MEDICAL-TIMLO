@@ -12,3 +12,4 @@ tag : favorite
 ![[Pasted image 20230113111143.png]]
 - La tension superficielle est un phénomène physique lié aux interactions moléculaires d’un fluide au niveau d’une interface.
 - La tension superficielle est définie comme étant la force existante à la surface d’un liquide, due à l’attraction des molécules qui s’opposent à la rupture de la surface.
+![[Pasted image 20230125160106.png]]
