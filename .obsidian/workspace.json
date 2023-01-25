@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
-                "mode": "preview",
+                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -35,15 +35,14 @@
             "id": "2ece7eefaed8bf1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
-                "mode": "source",
-                "source": false
+                "file": "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5110321044922,
-    "collapsed": true
+    "width": 407.5110321044922
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
+                "file": "HELP BIOPHYSIQUE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
+                "file": "HELP BIOPHYSIQUE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md"
+                "file": "HELP BIOPHYSIQUE.md"
               }
             }
           },
@@ -220,17 +218,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f1431388af62c1a1",
+  "active": "e5778db21934ae65",
   "lastOpenFiles": [
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
-    "HELP BIOPHYSIQUE.md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md",
+    "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
+    "HELP BIOPHYSIQUE.md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md",
     "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
     "CYTO NOTES.md",
-    "Med/NOTE STATS.md",
-    "Med/Repeat.md",
-    "IMAGES/Pasted image 20221227161741.png",
-    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md"
+    "Med/NOTE STATS.md"
   ]
 }

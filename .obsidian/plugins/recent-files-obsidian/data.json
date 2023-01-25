@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "HELP BIOPHYSIQUE",
+      "path": "HELP BIOPHYSIQUE.md"
+    },
+    {
+      "basename": "BIOPHYSIQUE DES SOLUTIONS ",
+      "path": "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf"
+    },
+    {
+      "basename": "LES SOLUTION",
+      "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md"
+    },
+    {
+      "basename": "LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD)",
+      "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md"
+    },
+    {
       "basename": "LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION)",
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md"
     },
@@ -9,16 +25,8 @@
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md"
     },
     {
-      "basename": "HELP BIOPHYSIQUE",
-      "path": "HELP BIOPHYSIQUE.md"
-    },
-    {
       "basename": "INTRODUCTION A LES SOLUTIONS (PROF TD)",
       "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md"
-    },
-    {
-      "basename": "LES SOLUTION",
-      "path": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md"
     },
     {
       "basename": "QCM PROTÉINES",
@@ -191,14 +199,6 @@
     {
       "basename": "CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES",
       "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md"
-    },
-    {
-      "basename": "DIPÔLE ÉLECTRIQUE",
-      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/DIPÔLE ÉLECTRIQUE.md"
-    },
-    {
-      "basename": "LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS",
-      "path": "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
     }
   ],
   "omittedPaths": [],

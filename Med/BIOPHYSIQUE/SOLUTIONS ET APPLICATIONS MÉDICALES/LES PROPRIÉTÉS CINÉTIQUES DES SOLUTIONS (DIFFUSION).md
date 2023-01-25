@@ -12,7 +12,7 @@ cards-deck: BIOPHYSIQUE::SOLUTIONS ET APPLICATIONS MÉDICALES::LES PROPRIÉTÉS 
 ```toc
 ```
 
-# Mise En Évidence Expérimentale :
+# Mise En Évidence Expérimentale 
 - Lorsque l’on verse une goutte de colorant dans un verre rempli d’eau, le colorant se répartit uniformément dans tout le verre. La vitesse de <mark style="background: #FF5582A6;">répartition du colorant dans l’eau augmente en fonction de la température</mark> et aussi en f<mark style="background: #FF5582A6;">onction de l’agitation mécanique</mark>. Le même phénomène va se produire si l’on met un morceau de sucre dans l’eau, il subit une dissolution graduelle et se répartit à travers tout le volume d’eau, cette dissolution augmente en fonction de la température et elle augmente aussi en fonction de l’agitation mécanique.
 - Le même phénomène est constaté lorsque l’on répand un parfum (soluté gazeux) dans une chambre, le parfum diffuse spontanément dans toute la chambre. Ce phénomène est constaté aussi dans le cas des liquides, le sirop se mélange à l’eau, etc…. Ce phénomène de déplacement des particules de « soluté » dans le « solvant » dépend de trois paramètres principaux :
 	1. De la différence de concentration.

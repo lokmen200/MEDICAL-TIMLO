@@ -9,3 +9,6 @@ tag : favorite
 2. <mark style="background: #FFF3A3A6;">Si le volume de la cellule augmente, entrée du liquide extracellulaire dans la cellule</mark>. Le milieu extra cellulaire est moins concentré que le milieu intracellulaire (hypotonique).
 3. <mark style="background: #FFF3A3A6;">Si le volume de la cellule diminue, sortie du liquide intracellulaire de la cellule</mark>. Le milieu extra cellulaire est plus concentré que le milieu intracellulaire (hypertonique).
 ![[Pasted image 20230113150740.png]]
+![[Pasted image 20230113111143.png]]
+- La tension superficielle est un phénomène physique lié aux interactions moléculaires d’un fluide au niveau d’une interface.
+- La tension superficielle est définie comme étant la force existante à la surface d’un liquide, due à l’attraction des molécules qui s’opposent à la rupture de la surface.
