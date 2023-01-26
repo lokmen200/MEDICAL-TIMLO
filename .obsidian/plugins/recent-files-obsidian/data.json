@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "HELP CHIMIE",
+      "path": "HELP CHIMIE.md"
+    },
+    {
       "basename": "LIASON CHIMIQUE",
       "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "QCM ANTOMIE",
       "path": "Med/ANATOMIE/QCM ANTOMIE.md"
-    },
-    {
-      "basename": "MUSCLE DU L'AVANT BRAS",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md"
     }
   ],
   "omittedPaths": [],
