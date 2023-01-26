@@ -8,41 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1431388af62c1a1",
+            "id": "90ba1755ff45c2c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
+                "file": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5778db21934ae65",
+            "id": "8db6a5feffbf8582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HELP BIOPHYSIQUE.md",
+                "file": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ece7eefaed8bf1b",
+            "id": "1f21a37c61dedc54",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf"
+                "file": "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "677234bc4f3ac8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ab3c02551b160e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/CHIMIE/LIASON CHIMIQUE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5110321044922,
+    "width": 228.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -125,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HELP BIOPHYSIQUE.md",
+                "file": "Med/CHIMIE/LIASON CHIMIQUE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HELP BIOPHYSIQUE.md",
+                "file": "Med/CHIMIE/LIASON CHIMIQUE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HELP BIOPHYSIQUE.md"
+                "file": "Med/CHIMIE/LIASON CHIMIQUE.md"
               }
             }
           },
@@ -219,17 +245,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e5778db21934ae65",
+  "active": "20ab3c02551b160e",
   "lastOpenFiles": [
-    "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf",
+    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
+    "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+    "Med/CHIMIE/LIASON CHIMIQUE.md",
+    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
+    "NOTS.md",
     "HELP BIOPHYSIQUE.md",
+    "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf",
     "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES SOLUTION.md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS CINÉTIQUES DES SOLUTIONS (DIFFUSION).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS COLLIGATIVES DES SOLUTION (PROF TD).md",
-    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/INTRODUCTION A LES SOLUTIONS (PROF TD).md",
-    "Med/BIOCHIMIE/PROTÉINES/QCM PROTÉINES.md",
-    "CYTO NOTES.md",
-    "Med/NOTE STATS.md"
+    "Med/BIOPHYSIQUE/SOLUTIONS ET APPLICATIONS MÉDICALES/LES PROPRIÉTÉS OPTIQUE DES SOLUTIONS  (PROF TD).md"
   ]
 }

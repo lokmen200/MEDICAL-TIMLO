@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "LIASON CHIMIQUE",
+      "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
+    },
+    {
+      "basename": "INTRODUCTION SURE LE CHIMIE",
+      "path": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
+    },
+    {
+      "basename": "CORTÈGE ÉLECTRONIQUE DES ATOMES",
+      "path": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
+    },
+    {
+      "basename": "LES EFFETS ÉLECTRONIQUES",
+      "path": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
+    },
+    {
+      "basename": "CLASSIFICATION PERIODIQUE DES ELEMENTS",
+      "path": "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md"
+    },
+    {
+      "basename": "NOTS",
+      "path": "NOTS.md"
+    },
+    {
       "basename": "HELP BIOPHYSIQUE",
       "path": "HELP BIOPHYSIQUE.md"
     },
@@ -63,10 +87,6 @@
     {
       "basename": "HELP BIOCHIMIE",
       "path": "Med/BIOCHIMIE/HELP BIOCHIMIE.md"
-    },
-    {
-      "basename": "NOTS",
-      "path": "NOTS.md"
     },
     {
       "basename": "LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS",
@@ -179,26 +199,6 @@
     {
       "basename": "MUSCLE DU L'AVANT BRAS",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md"
-    },
-    {
-      "basename": "PROBABILITÉ",
-      "path": "Med/BIOSTAT/PROBABILITÉ.md"
-    },
-    {
-      "basename": "LOI BINOMIALE ET LOI NORMALE",
-      "path": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
-    },
-    {
-      "basename": "MED TEMPLATER",
-      "path": "templates/MED TEMPLATER.md"
-    },
-    {
-      "basename": "1 cours du Chapitre1 electrostatique charges ponctuelles",
-      "path": "PDF/1 cours du Chapitre1 electrostatique charges ponctuelles.pdf"
-    },
-    {
-      "basename": "CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES",
-      "path": "Med/BIOPHYSIQUE/ÉLECTRICITE/CONDUCTEUR ÉLECTRIQUE ET CHARGES RÉPARTIES.md"
     }
   ],
   "omittedPaths": [],

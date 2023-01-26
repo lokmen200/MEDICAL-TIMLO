@@ -28,7 +28,7 @@
 - [x] La membrane plasmique  Structure
 - [x] Les specialisations morphologiques de la membrane plasmique
 - [x] Les molécules d'adhérence cellulaire
-- [ ] Les transports membranaires
+- [x] Les transports membranaires
 - [ ] Hyaloplasme et Cytosquelette
 - [ ] Communication intercellulaire
 # BIOSTAT
