@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5e6469e0bc5631d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Med/ANATOMIE/QCM ANTOMIE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afee859137984a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angiologie.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
               }
             }
           },
@@ -198,15 +222,15 @@
   },
   "active": "9a8d78eec6ce7d91",
   "lastOpenFiles": [
+    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+    "Angiologie.md",
+    "Med/ANATOMIE/QCM ANTOMIE.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md",
     "SSH.md",
     "HELP CHIMIE.md",
     "Med/CHIMIE/LIASON CHIMIQUE.md",
     "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
     "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
-    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
-    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
-    "NOTS.md",
-    "HELP BIOPHYSIQUE.md",
-    "Created PDFs/BIOPHYSIQUE DES SOLUTIONS .pdf"
+    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
   ]
 }

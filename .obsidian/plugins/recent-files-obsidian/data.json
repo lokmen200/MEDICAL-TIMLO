@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "LOI BINOMIALE ET LOI NORMALE",
+      "path": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
+    },
+    {
       "basename": "STATISTIQUES DESCRIPTIVES",
       "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+    },
+    {
+      "basename": "Angiologie",
+      "path": "Angiologie.md"
+    },
+    {
+      "basename": "QCM ANTOMIE",
+      "path": "Med/ANATOMIE/QCM ANTOMIE.md"
+    },
+    {
+      "basename": "ULNA",
+      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md"
     },
     {
       "basename": "SSH",
@@ -183,22 +199,6 @@
     {
       "basename": "Pasted image 20230120184636",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184636.png"
-    },
-    {
-      "basename": "MUSCLE DU BRAS",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU BRAS.md"
-    },
-    {
-      "basename": "MUSCLE DU L'EPAULE",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE.md"
-    },
-    {
-      "basename": "MUSCLE DU L'EPAULE COURS",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'EPAULE COURS.md"
-    },
-    {
-      "basename": "SCAPULA",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md"
     }
   ],
   "omittedPaths": [],

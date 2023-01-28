@@ -10,6 +10,14 @@ tag: ANATOMIE QCM
 CREATED: YES
 cards-deck: ANATOMIE::QCM ANTOMIE
 ---
+
+![[Pasted image 20230128210217.png]]
+![[Pasted image 20230128205723.png]]
+
+![[Pasted image 20230128203045.png]]
+![[Pasted image 20230128202725.png]]
+![[Pasted image 20230128202606.png]]
+![[Pasted image 20230128202440.png]]
 ----
 ![[Pasted image 20230111183527.png]]
 ----

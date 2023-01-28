@@ -44,7 +44,7 @@ cards-deck: BIOSTAT::STATISTIQUES DESCRIPTIVES
 ![[Pasted image 20230119210926.png]]
 - Coefficient de variation comparer la dispersion dans des population différentes 
 ![[Pasted image 20230119211609.png]]
-## Mesures de positionnement relatifs 
+# Mesures de positionnement relatifs 
 - Mesures de positionnement relatifs On introduit des mesures qui peuvent être utilisées pour comparer des valeurs issues de jeux de données différents
 - Score – Z (normalisé) est obtenu en convertissant une valeur sur une échelle normalisée
 ![[Pasted image 20230119211852.png]]
