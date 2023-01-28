@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "STATISTIQUES DESCRIPTIVES",
+      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+    },
+    {
+      "basename": "SSH",
+      "path": "SSH.md"
+    },
+    {
       "basename": "HELP CHIMIE",
       "path": "HELP CHIMIE.md"
     },
@@ -169,10 +177,6 @@
       "path": "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/1ER SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md"
     },
     {
-      "basename": "STATISTIQUES DESCRIPTIVES",
-      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
-    },
-    {
       "basename": "LE MUSCLE DE L'AVANT BRAS",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SCAPULA",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md"
-    },
-    {
-      "basename": "QCM ANTOMIE",
-      "path": "Med/ANATOMIE/QCM ANTOMIE.md"
     }
   ],
   "omittedPaths": [],
