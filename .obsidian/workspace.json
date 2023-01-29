@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5110321044922
+    "width": 228.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
+                "file": "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md"
               }
             }
           },
@@ -197,15 +198,15 @@
   },
   "active": "502003df7f0ca43f",
   "lastOpenFiles": [
+    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
+    "Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA VOIE DES PENTOSES PHOSPHATE.md",
+    "Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
     "Med/CHIMIE/LIASON CHIMIQUE.md",
-    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
-    "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
-    "Med/CHIMIE/TD 01 CHIMIE.md",
-    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
-    "Angiologie.md",
-    "Med/ANATOMIE/QCM ANTOMIE.md",
-    "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
-    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md"
+    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md"
   ]
 }
