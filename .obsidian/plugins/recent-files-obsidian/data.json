@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "LOI BINOMIALE ET LOI NORMALE",
-      "path": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
+      "basename": "LES EFFETS ÉLECTRONIQUES",
+      "path": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
     },
     {
-      "basename": "STATISTIQUES DESCRIPTIVES",
-      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
+      "basename": "LIASON CHIMIQUE",
+      "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
+    },
+    {
+      "basename": "CLASSIFICATION PERIODIQUE DES ELEMENTS",
+      "path": "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md"
+    },
+    {
+      "basename": "CORTÈGE ÉLECTRONIQUE DES ATOMES",
+      "path": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
+    },
+    {
+      "basename": "TD 01 CHIMIE",
+      "path": "Med/CHIMIE/TD 01 CHIMIE.md"
+    },
+    {
+      "basename": "INTRODUCTION SURE LE CHIMIE",
+      "path": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
     },
     {
       "basename": "Angiologie",
@@ -15,6 +31,14 @@
     {
       "basename": "QCM ANTOMIE",
       "path": "Med/ANATOMIE/QCM ANTOMIE.md"
+    },
+    {
+      "basename": "LOI BINOMIALE ET LOI NORMALE",
+      "path": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
+    },
+    {
+      "basename": "STATISTIQUES DESCRIPTIVES",
+      "path": "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md"
     },
     {
       "basename": "ULNA",
@@ -27,26 +51,6 @@
     {
       "basename": "HELP CHIMIE",
       "path": "HELP CHIMIE.md"
-    },
-    {
-      "basename": "LIASON CHIMIQUE",
-      "path": "Med/CHIMIE/LIASON CHIMIQUE.md"
-    },
-    {
-      "basename": "INTRODUCTION SURE LE CHIMIE",
-      "path": "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md"
-    },
-    {
-      "basename": "CORTÈGE ÉLECTRONIQUE DES ATOMES",
-      "path": "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md"
-    },
-    {
-      "basename": "LES EFFETS ÉLECTRONIQUES",
-      "path": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
-    },
-    {
-      "basename": "CLASSIFICATION PERIODIQUE DES ELEMENTS",
-      "path": "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md"
     },
     {
       "basename": "NOTS",
@@ -195,10 +199,6 @@
     {
       "basename": "LE MUSCLE DE L'AVANT BRAS",
       "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md"
-    },
-    {
-      "basename": "Pasted image 20230120184636",
-      "path": "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/IMAGES/Pasted image 20230120184636.png"
     }
   ],
   "omittedPaths": [],

@@ -2,12 +2,12 @@
 Date created : 2022-12-29
 Date of last modefiction : Thursday 29th December 2022 13:52
 Module : CHIMIE
-Cour : TD 01
+Cour : TD 01 CHIMIE
 Present dans le coure : YES
 Étudiée : YES
 tag: CHIMIE TD 
 CREATED: YES
-cards-deck: CHIMIE::TD 01
+cards-deck: CHIMIE::TD 01 CHIMIE
 ---
 ```toc
 ```

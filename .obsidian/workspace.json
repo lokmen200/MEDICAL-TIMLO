@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "150b1a90f9916034",
+        "id": "d5c9ad9a436bca8f",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8d78eec6ce7d91",
+            "id": "502003df7f0ca43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5e6469e0bc5631d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med/ANATOMIE/QCM ANTOMIE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afee859137984a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angiologie.md",
-                "mode": "source",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md"
+                "file": "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
               }
             }
           },
@@ -220,17 +196,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9a8d78eec6ce7d91",
+  "active": "502003df7f0ca43f",
   "lastOpenFiles": [
-    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+    "Med/CHIMIE/LIASON CHIMIQUE.md",
+    "Med/CHIMIE/CLASSIFICATION PERIODIQUE DES ELEMENTS.md",
+    "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
+    "Med/CHIMIE/TD 01 CHIMIE.md",
+    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
     "Angiologie.md",
     "Med/ANATOMIE/QCM ANTOMIE.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md",
-    "SSH.md",
-    "HELP CHIMIE.md",
-    "Med/CHIMIE/LIASON CHIMIQUE.md",
-    "Med/CHIMIE/INTRODUCTION SURE LE CHIMIE.md",
-    "Med/CHIMIE/CORTÈGE ÉLECTRONIQUE DES ATOMES.md",
-    "Med/CHIMIE/LES EFFETS ÉLECTRONIQUES.md"
+    "Med/BIOSTAT/LOI BINOMIALE ET LOI NORMALE.md",
+    "Med/BIOSTAT/STATISTIQUES DESCRIPTIVES.md",
+    "Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/ULNA.md"
   ]
 }
