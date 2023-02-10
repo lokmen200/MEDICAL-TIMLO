@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,11 +193,11 @@
       "obsidian-comments:Show Comments Panel": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "502003df7f0ca43f",
+  "active": "0206e83d9e7999d7",
   "lastOpenFiles": [
     "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/OVULATION ET OVOCYTE.md",
     "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md",
