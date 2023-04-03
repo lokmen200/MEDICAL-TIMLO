@@ -190,7 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-comments:Show Comments Panel": false
+      "obsidian-comments:Show Comments Panel": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "0206e83d9e7999d7",
