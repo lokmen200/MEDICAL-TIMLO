@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c9ad9a436bca8f",
+        "id": "4d24db20051c207c",
         "type": "tabs",
         "children": [
           {
-            "id": "502003df7f0ca43f",
+            "id": "d5a83977cac82319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
+                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5110321044922,
-    "collapsed": true
+    "width": 228.5110321044922
   },
   "right": {
     "id": "f0712f55dcc6e13f",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
+                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
+                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md"
+                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md"
               }
             }
           },
@@ -197,17 +196,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0206e83d9e7999d7",
+  "active": "d5a83977cac82319",
   "lastOpenFiles": [
-    "Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/OVULATION ET OVOCYTE.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md",
-    "Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
-    "Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
-    "Med/CYTOLOGIE/LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE.md",
-    "Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
-    "Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
-    "Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md",
-    "Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
-    "Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
+    "templates/MED TEMPLATER.md",
+    "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md",
+    "S2/DASHBOARD/HOME.md",
+    "S1/DASHBOARD/HOME.md",
+    "S2/DASHBOARD",
+    "S1/Med/NOTE STATS.md",
+    "S2/Med/ANATOMIE/MEMBRANE INFERIEURE",
+    "S2/Med/BIOCHIMIE/LES LIPIDES",
+    "S2/Med/BIOPHYSIQUE",
+    "S2/Med/HISTOLOGIE",
+    "S2/Med/CHIMIE",
+    "S2/Med/BIOSTAT",
+    "S2/Med/CYTOLOGIE",
+    "S2/Med/PHISIOLOGIE",
+    "S2/Med/ANATOMIE",
+    "S1/Med/SSH.md",
+    "S1/Med/Repeat.md",
+    "S1/Med/NOTS.md",
+    "S1/Med/CYTOLOGIE/MÉTHODES D’ÉTUDES DE LA CELLULE.md",
+    "S1/Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/OVULATION ET OVOCYTE.md",
+    "S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/LE MUSCLE DE L'AVANT BRAS.md",
+    "S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
+    "S1/Med/EMBRYOLOGIE/LES SEMAINS DU DÉVELOPPEMENT EMBRYONNAIRE/4EME SEMAINE DE DÉVELOPPEMENT EMBRYONNAIRE.md",
+    "S1/Med/CYTOLOGIE/LES SPECIALISATIONS MORPHOLOGIQUES DE LA MEMBRANE PLASMIQUE.md",
+    "S1/Med/CYTOLOGIE/LA MEMBRANE PLASMIQUE STRUCTURE.md",
+    "S1/Med/BIOCHIMIE/LES GLUCIDES/QCM GLUCIDES.md",
+    "S1/Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+    "S1/Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md"
   ]
 }
