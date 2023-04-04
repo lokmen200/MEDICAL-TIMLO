@@ -1,6 +1,6 @@
 {
   "generatedPath": "Generated/",
-  "pdfPath": "PDFs/",
+  "pdfPath": "PDF/",
   "pdfOverwrite": true,
   "pdfExtractFileNumberLimit": 0,
   "pdfExtractFileSizeLimit": 0,
