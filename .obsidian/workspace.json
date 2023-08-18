@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "88997f913d55d2a6",
+        "id": "004cccf3e21354a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5e31368993d765",
+            "id": "880f8abc21fe4ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md",
+                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bff29a4afed75b40",
+            "id": "970a38bf32d6efa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md",
-                "mode": "source",
-                "source": false
+                "file": "S2/PDFs/Biochimie PDF/08. Structure Générale des Lipides (Cour).pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,13 +84,26 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "dc40efe5a96de191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e773a23128733d81",
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md",
+                "file": "S2/PDFs/Biochimie PDF/08. Structure Générale des Lipides (Cour).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md",
+                "file": "S2/PDFs/Biochimie PDF/08. Structure Générale des Lipides (Cour).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md"
+                "file": "S2/PDFs/Biochimie PDF/08. Structure Générale des Lipides (Cour).pdf"
               }
             }
           },
@@ -193,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "649d2a440645d237",
+  "active": "970a38bf32d6efa5",
   "lastOpenFiles": [
-    "S2/Med/BIOCHIMIE/LES LIPIDES/RESUMER LIPIDE.md",
-    "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md",
-    "S2/PDFs/Biochimie PDF/1-CARACTERES GENERAUX DES LIPIDES.pdf"
+    "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
+    "S2/PDFs/Biochimie PDF/08. Structure Générale des Lipides (Cour).pdf",
+    "S2/PDFs/Biochimie PDF/1-CARACTERES GENERAUX DES LIPIDES.pdf",
+    "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md"
   ]
 }
