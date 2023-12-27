@@ -84,8 +84,10 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     __publicField(this, "locale");
     __publicField(this, "resources", []);
     __publicField(this, "results", []);
+    __publicField(this, "loaded", false);
     __publicField(this, "tabIndex", 0);
     __publicField(this, "pluginTabIndex", 0);
+    __publicField(this, "seen", []);
     __publicField(this, "settingCache", new Map());
     __publicField(this, "searchAppended", false);
     __publicField(this, "activeIndex", -1);
@@ -94,6 +96,11 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     __publicField(this, "mobileContainers", []);
   }
   async onload() {
+    (window["SettingsSearch"] = {
+      addResources: this.addResources.bind(this),
+      removeResources: this.removeResources.bind(this),
+      removeTabResources: this.removeTabResources.bind(this)
+    }) && this.register(() => delete window["SettingsSearch"]);
     this.app.workspace.onLayoutReady(async () => {
       this.settingsResultsContainerEl.createEl("h3", {
         text: "Settings Search Results"
@@ -104,11 +111,13 @@ var SettingsSearch = class extends import_obsidian.Plugin {
       this.buildResources();
       this.buildPluginResources();
       this.patchSettings();
+      this.loaded = true;
+      this.app.workspace.trigger("settings-search-loaded");
     });
   }
   buildResources() {
     const tab = this.app.setting.settingTabs[this.tabIndex];
-    if (tab) {
+    if (tab && tab.id !== void 0 && !this.seen.includes(tab.id)) {
       this.getTabResources(tab);
       this.tabIndex++;
       setTimeout(() => this.buildResources());
@@ -126,7 +135,26 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     return Object.values(this.app.plugins.manifests);
   }
   addResourceToCache(resource) {
-    const setting = new import_obsidian.Setting(createDiv()).setName(resource.text).setDesc(createFragment((e) => e.createDiv().innerHTML = resource.desc ?? ""));
+    if (!resource || !resource.text || !resource.name || !resource.tab) {
+      return new Error("A valid resource must be provided.");
+    }
+    let name;
+    if (resource.external) {
+      name = createFragment((el) => {
+        (0, import_obsidian.setIcon)(el.createSpan({
+          attr: {
+            "aria-label": "This setting was added by another plugin."
+          }
+        }), "info");
+        el.createSpan({ text: resource.text });
+      });
+    } else {
+      name = resource.text;
+    }
+    const setting = new import_obsidian.Setting(createDiv()).setName(name).setDesc(createFragment((e) => e.createDiv().innerHTML = resource.desc ?? ""));
+    if (resource.external) {
+      setting.settingEl.addClass("set-externally");
+    }
     if (resource.tab == "community-plugins") {
       let plugin = this.manifests.find((p) => p.name == resource.text);
       if (plugin && this.app.plugins.getPlugin(plugin.id)?._loaded && this.app.setting.pluginTabs.find((t) => t.id == plugin.id)) {
@@ -153,18 +181,49 @@ var SettingsSearch = class extends import_obsidian.Plugin {
         this.showResult(resource);
       });
     });
-    this.settingCache.set(resource.text, setting);
+    this.settingCache.set(resource, setting);
   }
   getResourceFromCache(resource) {
-    if (!this.settingCache.has(resource.text)) {
+    if (!this.settingCache.has(resource)) {
       this.addResourceToCache(resource);
     }
-    return this.settingCache.get(resource.text);
+    return this.settingCache.get(resource);
   }
   removeResourcesFromCache(resources) {
     for (const resource of resources) {
-      this.settingCache.delete(resource.text);
+      this.settingCache.delete(resource);
     }
+  }
+  addResources(...resources) {
+    for (const resource of resources) {
+      resource.external = true;
+      if (this.resources.find((k) => this.equivalent(resource, k)))
+        continue;
+      this.resources.push(resource);
+      this.addResourceToCache(resource);
+    }
+    return () => this.removeResources(...resources);
+  }
+  equivalent(resource1, resource2) {
+    return resource1.name == resource2.name && resource1.tab == resource2.tab && resource1.text == resource2.text && resource1.desc == resource2.desc && resource1.external == resource2.external;
+  }
+  removeResources(...resources) {
+    const removing = [];
+    const keys = [...this.settingCache.keys()];
+    for (const resource of resources) {
+      if (!resource || !resource.text || !resource.name || !resource.tab) {
+        continue;
+      }
+      resource.external = true;
+      this.resources = this.resources.filter((r) => !this.equivalent(resource, r));
+      removing.push(...keys.filter((k) => k == resource || this.equivalent(resource, k)));
+    }
+    this.removeResourcesFromCache(removing);
+  }
+  removeTabResources(tab) {
+    const removing = this.resources.filter((t) => t.tab == tab);
+    this.resources = this.resources.filter((t) => t.tab != tab);
+    this.removeResourcesFromCache(removing);
   }
   async getTabResources(tab) {
     await tab.display();
@@ -185,6 +244,7 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     }
     if (this.app.setting.activeTab?.id == tab.id)
       return;
+    this.seen.push(tab.id);
     tab.containerEl.detach();
     tab.hide();
   }
@@ -203,7 +263,9 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     this.register(around(this.app.setting, {
       addSettingTab: function(next) {
         return function(tab) {
-          self.getTabResources(tab);
+          if (tab && tab.id !== void 0 && !self.seen.includes(tab.id)) {
+            self.getTabResources(tab);
+          }
           return next.call(this, tab);
         };
       }
@@ -212,9 +274,7 @@ var SettingsSearch = class extends import_obsidian.Plugin {
       removeSettingTab: function(next) {
         return function(tab) {
           if (this.isPluginSettingTab(tab)) {
-            const removing = self.resources.filter((t) => t.tab == tab.id);
-            self.resources = self.resources.filter((t) => t.tab != tab.id);
-            self.removeResourcesFromCache(removing);
+            self.removeTabResources(tab.id);
           }
           return next.call(this, tab);
         };
@@ -258,11 +318,25 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     this.app.setting.tabHeadersEl.prepend(this.settingsSearchEl);
   }
   buildScope() {
+    this.scope.register(["Ctrl"], "N", () => {
+      if (this.activeSetting) {
+        this.activeSetting.settingEl.removeClass("active");
+      }
+      this.activeIndex = ((this.activeIndex + 1) % this.results.length + this.results.length) % this.results.length;
+      this.centerActiveSetting();
+    });
     this.scope.register([], "ArrowDown", () => {
       if (this.activeSetting) {
         this.activeSetting.settingEl.removeClass("active");
       }
       this.activeIndex = ((this.activeIndex + 1) % this.results.length + this.results.length) % this.results.length;
+      this.centerActiveSetting();
+    });
+    this.scope.register(["Ctrl"], "P", () => {
+      if (this.activeSetting) {
+        this.activeSetting.settingEl.removeClass("active");
+      }
+      this.activeIndex = ((this.activeIndex - 1) % this.results.length + this.results.length) % this.results.length;
       this.centerActiveSetting();
     });
     this.scope.register([], "ArrowUp", () => {
@@ -381,7 +455,7 @@ var SettingsSearch = class extends import_obsidian.Plugin {
     }
     this.app.setting.openTabById(tab.id);
     this.app.keymap.popScope(this.scope);
-    setTimeout(() => this.detach());
+    this.detach();
     try {
       const names = tab.containerEl.querySelectorAll(".setting-item-name");
       const el = Array.from(names).find((n) => n.textContent == result.text);
@@ -406,7 +480,7 @@ var SettingsSearch = class extends import_obsidian.Plugin {
       }
       setting.scrollIntoView(true);
       setting.addClass("is-flashing");
-      this.registerInterval(window.setTimeout(() => setting.removeClass("is-flashing"), 3e3));
+      window.setTimeout(() => setting.removeClass("is-flashing"), 3e3);
     } catch (e) {
       console.error(e);
     }

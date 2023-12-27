@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "070c2ad733ce6eb3",
+        "id": "3db3f2a758996108",
         "type": "tabs",
         "children": [
           {
-            "id": "7b8537adb4e12122",
+            "id": "6cde09b20c742141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Les testicule.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Les testicule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Les testicule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,12 +135,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Les testicule.md"
               }
+            }
+          },
+          {
+            "id": "7d0456421376c0f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afb4022978f95f4f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,15 +171,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b8537adb4e12122",
+  "active": "6cde09b20c742141",
   "lastOpenFiles": [
+    "Excalidraw/Les testicule.excalidraw.md",
+    "Les testicule.md",
+    "Excalidraw",
+    "IMAGES/Pasted image 20231225135058.png",
+    "IMAGES",
+    "Endo",
+    "Excalidraw/Endo biochime 1.md",
+    "Excalidraw/IMAGES/Pasted Image 20231224224047_696.png",
+    "Excalidraw/IMAGES",
+    "Excalidraw/Drawing 2023-12-24 22.32.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-24 01.36.01.excalidraw.md",
+    "Urinaire.canvas",
+    "First Year/S1/DASHBOARD/HOME.md",
     "Second Year/Urinaire/Anatomie Urinaire/Les rein.md",
-    "Untitled.md",
     "Second Year/Urinaire/Histologie Urinaire",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204164748.png",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204164724.png",
@@ -173,22 +207,16 @@
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163833.png",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163559.png",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163034.png",
-    "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204162817.png",
-    "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204161039.png",
-    "Untitled.canvas",
     "Drawing 2023-12-03 22.16.46.excalidraw.md",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES",
     "First Year/S1/Med/ANATOMIE/GÉNÉRALITÉ/INTRODUCITON A L'OSTÉOLOGIE.md",
     "Second Year/Urinaire/Anatomie Urinaire",
     "Second Year/Urinaire",
     "First Year/S2/DASHBOARD/HOME.md",
-    "First Year/S1/DASHBOARD/HOME.md",
     "templates/DASHBOARD TEMPLATER.md",
     "Second Year",
     "First Year",
-    "First Year/S2/PDFs/Biochimie PDF/08. Structure Générale des Lipides (Cour).pdf",
     "First Year/S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
-    "First Year/S2/PDFs/Biochimie PDF/1-CARACTERES GENERAUX DES LIPIDES.pdf",
     "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md"
   ]
 }

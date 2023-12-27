@@ -1,5 +1,9 @@
 ---
 banner: "![[joyce-mccown-LAEPsbXOhIM-unsplash.jpg]]"
+banner_y: 0.5
+---
+---
+banner: "![[joyce-mccown-LAEPsbXOhIM-unsplash.jpg]]"
 ---
 -   🗄️ Recent file updates `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 🔖 Tagged: favorite `$=dv.list(dv.pages('#FAVORITE').sort(f=>f.file.name,"desc").limit(4).file.link)`
