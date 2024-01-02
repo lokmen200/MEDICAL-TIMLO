@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Blue Topaz",
   "baseFontSize": 22,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "dashbord",
     "dashbordline",
