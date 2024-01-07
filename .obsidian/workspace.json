@@ -8,17 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cde09b20c742141",
+            "id": "be076604e4d01397",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "SECOND YEAR CANVAS.canvas",
-                "viewState": {
-                  "x": 170.55550166908438,
-                  "y": -332.52610404871353,
-                  "zoom": -1.4500655018907165
-                }
+                "file": "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md"
               }
             }
           }
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SECOND YEAR CANVAS.canvas",
+                "file": "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SECOND YEAR CANVAS.canvas",
+                "file": "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SECOND YEAR CANVAS.canvas"
+                "file": "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md"
               }
             }
           },
@@ -186,17 +181,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cde09b20c742141",
+  "active": "be076604e4d01397",
   "lastOpenFiles": [
-    "Gonades indifférenciées.md",
     "SECOND YEAR CANVAS.canvas",
+    "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md",
+    "Excalidraw",
+    "Gonades indifférenciées.md",
     "First Year/S1/DASHBOARD/HOME.md",
     "Second Year/Urinaire/Anatomie Urinaire/Les rein.md",
     "Second Year/ENDOCRINOLOGY/Les testicule.md",
     "Second Year/ENDOCRINOLOGY",
     "Les testicule.md",
     "Excalidraw/Les testicule.excalidraw.md",
-    "Excalidraw",
     "IMAGES/Pasted image 20231225135058.png",
     "IMAGES",
     "Endo",
