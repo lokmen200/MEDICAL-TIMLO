@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3aef99b42ea19cb4",
+        "id": "1a21a39977260d2c",
         "type": "tabs",
         "children": [
           {
-            "id": "10730c9e2e39d32c",
+            "id": "15973ba58d4b2a0c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md"
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+                "viewState": {
+                  "x": -908.7160066707077,
+                  "y": -141.91913153890272,
+                  "zoom": -0.7660486175267963
+                }
               }
             }
           }
@@ -77,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "e773a23128733d81",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md"
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas"
               }
             }
           },
@@ -181,14 +185,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10730c9e2e39d32c",
+  "active": "15973ba58d4b2a0c",
   "lastOpenFiles": [
+    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Généralités sur les glandes endocrines.md",
+    "Second Year/ENDOCRINOLOGY/HISTOLOGIE",
+    "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Glande mammaire.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Surrénales hypothalamus hypophyse.md",
+    "Gonades indifférenciées.md",
     "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
     "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md",
     "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md",
-    "SECOND YEAR CANVAS.canvas",
     "Excalidraw",
-    "Gonades indifférenciées.md",
     "First Year/S1/DASHBOARD/HOME.md",
     "Second Year/Urinaire/Anatomie Urinaire/Les rein.md",
     "Second Year/ENDOCRINOLOGY/Les testicule.md",
@@ -217,10 +229,8 @@
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES",
     "First Year/S1/Med/ANATOMIE/GÉNÉRALITÉ/INTRODUCITON A L'OSTÉOLOGIE.md",
     "Second Year/Urinaire/Anatomie Urinaire",
-    "Second Year/Urinaire",
     "First Year/S2/DASHBOARD/HOME.md",
     "templates/DASHBOARD TEMPLATER.md",
-    "Second Year",
     "First Year/S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
     "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md"
   ]

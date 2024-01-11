@@ -37,9 +37,14 @@
     {
       "folder": "Med/EMBROYLOGIE",
       "template": "templates/MED TEMPLATER.md"
+    },
+    {
+      "folder": "Second Year",
+      "template": "templates/MED TEMPLATER.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],
