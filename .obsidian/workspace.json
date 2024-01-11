@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f83f97cdb34177f1",
+        "id": "3aef99b42ea19cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "8517f8dea100a710",
+            "id": "10730c9e2e39d32c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md"
+              }
             }
           }
         ],
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md"
+              }
             }
           },
           {
@@ -175,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8517f8dea100a710",
+  "active": "10730c9e2e39d32c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
     "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md",
     "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md",
     "SECOND YEAR CANVAS.canvas",
