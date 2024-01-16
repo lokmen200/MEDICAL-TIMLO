@@ -4,8 +4,7 @@
 		{"id":"94457fc9d10bfe0c","type":"group","x":-1520,"y":-680,"width":1150,"height":640,"color":"3","label":"HISTOLOGIE ENDOCRINE"},
 		{"id":"441a0a2910a83168","type":"group","x":480,"y":120,"width":995,"height":710,"color":"#eeb4b4","label":"ANATOMIE ENDOCRINE"},
 		{"id":"a30f6f9d57c84b0e","type":"text","text":"[[Glande mammaire.]]","x":-1500,"y":-220,"width":250,"height":60,"color":"3"},
-		{"id":"17eaa5b11b4d507b","type":"text","text":"[[Appareil génital femelle]]","x":-1166,"y":-660,"width":250,"height":60,"color":"3"},
-		{"id":"5a6fe20918e68047","type":"text","text":"[[Appareil génital mâle]]","x":-1500,"y":-540,"width":250,"height":60,"color":"3"},
+		{"id":"17eaa5b11b4d507b","type":"text","text":"[[Appareil génital femelle]]","x":-1166,"y":-660,"width":250,"height":90,"color":"3"},
 		{"id":"57c8b1ff9fcaa701","type":"text","text":"[[Complexe hormonal GH-Somatomédine]]","x":-1088,"y":436,"width":288,"height":86,"color":"6"},
 		{"id":"a0f6467ba9e4718c","type":"text","text":"HISTOLOGIE","x":-1081,"y":-380,"width":250,"height":50,"color":"3"},
 		{"id":"27d2f4f203b680bc","type":"text","text":"[[Généralités sur les glandes endocrines]]","x":-1500,"y":-385,"width":250,"height":60,"color":"3"},
@@ -31,10 +30,11 @@
 		{"id":"84e085f9bd41fc25","type":"text","text":"[[Glandes annexes et OGE]]","x":1205,"y":374,"width":250,"height":65,"color":"1"},
 		{"id":"155298eea1e7ddcd","type":"text","text":"[[Complexe Thyroïde / Parathyroïde]]","x":-791,"y":-440,"width":421,"height":50,"color":"3"},
 		{"id":"a9924ad24a00fb02","type":"text","text":"ENDOCRINOLOGY ","x":-82,"y":-260,"width":250,"height":60,"color":"2"},
-		{"id":"502eecbbf5c05ce9","type":"text","text":"[[Pancréas endocrine]]","x":-784,"y":-600,"width":250,"height":60,"color":"3"},
 		{"id":"3bc9e9891646e938","type":"text","text":"[[Hypophyse]]","x":-659,"y":-160,"width":250,"height":60,"color":"3"},
 		{"id":"2dae7ca5538bbc83","type":"text","text":"BIOCHIMIE\n","x":43,"y":-760,"width":250,"height":60},
-		{"id":"57db300ca2b355fb","type":"text","text":"[[Gonades indifférenciées]]","x":-1213,"y":-190,"width":213,"height":90,"color":"3"}
+		{"id":"57db300ca2b355fb","type":"text","text":"[[Gonades indifférenciées]]","x":-1213,"y":-190,"width":213,"height":90,"color":"3"},
+		{"id":"5a6fe20918e68047","type":"text","text":"[[Appareil génital mâle]]","x":-1500,"y":-570,"width":250,"height":100,"color":"3"},
+		{"id":"502eecbbf5c05ce9","type":"text","text":"[[Pancréas endocrine]]","x":-683,"y":-620,"width":265,"height":50,"color":"3"}
 	],
 	"edges":[
 		{"id":"bba944d4bbda0367","fromNode":"dc97b09f48668625","fromSide":"bottom","toNode":"cd280dfae0f5daed","toSide":"top","color":"1"},
