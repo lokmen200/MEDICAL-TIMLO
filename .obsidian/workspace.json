@@ -11,14 +11,11 @@
             "id": "15973ba58d4b2a0c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
-                "viewState": {
-                  "x": -908.7160066707077,
-                  "y": -252.62855792460988,
-                  "zoom": -0.7660486175267963
-                }
+                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas"
+                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md"
               }
             }
           },
@@ -185,12 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15973ba58d4b2a0c",
+  "active": "649d2a440645d237",
   "lastOpenFiles": [
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Glande mammaire.md",
+    "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Hypophyse.md",
+    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Complexe Thyroïde et Parathyroïde.md",
+    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Glande pinéale.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Généralités sur les glandes endocrines.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE",
-    "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Glande mammaire.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
@@ -230,8 +230,6 @@
     "First Year/S1/Med/ANATOMIE/GÉNÉRALITÉ/INTRODUCITON A L'OSTÉOLOGIE.md",
     "Second Year/Urinaire/Anatomie Urinaire",
     "First Year/S2/DASHBOARD/HOME.md",
-    "templates/DASHBOARD TEMPLATER.md",
-    "First Year/S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
-    "S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX.md"
+    "templates/DASHBOARD TEMPLATER.md"
   ]
 }
