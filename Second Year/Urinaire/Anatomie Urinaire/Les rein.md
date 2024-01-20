@@ -6,7 +6,6 @@ Cour: Les rein
 Present dans le coure: NO
 Étudiée: NO
 tags:
-  - ANATOMIE_URINAIRE
   - URINAIRE
   - SECONDYEAR
 CREATED: YES

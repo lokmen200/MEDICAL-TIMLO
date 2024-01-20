@@ -1,6 +1,8 @@
 ---
-tag :favorite
+tags:
+  - favorite
 ---
+
 # ALL The Learned Lecture
 ```dataview
 Table Module as Subject  , Étudiée as Studied

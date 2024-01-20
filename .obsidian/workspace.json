@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15973ba58d4b2a0c",
+            "id": "0d92ea4bcf74518c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
+                "file": "Second Year/ENDOCRINOLOGY/LECTEURS TRACKER.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
+                "file": "Second Year/ENDOCRINOLOGY/LECTEURS TRACKER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
+                "file": "Second Year/ENDOCRINOLOGY/LECTEURS TRACKER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md"
+                "file": "Second Year/ENDOCRINOLOGY/LECTEURS TRACKER.md"
               }
             }
           },
@@ -182,39 +182,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "649d2a440645d237",
+  "active": "0d92ea4bcf74518c",
   "lastOpenFiles": [
+    "First Year/S1/Med/NOTE STATS.md",
+    "First Year/S1/DASHBOARD/HOME.md",
+    "Second Year/ENDOCRINOLOGY/LECTEURS TRACKER.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/hello.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Untitled 3.md",
+    "Second Year/Urinaire/Anatomie Urinaire/Les rein.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/anatomie.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Untitled 2.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Untitled 1.md",
+    "Second Year/ENDOCRINOLOGY/hello.md",
+    "templates/MED TEMPLATER.md",
+    "templates/Untitled.md",
+    "templates/hello.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Glande mammaire.md",
+    "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md",
     "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE",
+    "Second Year/ENDOCRINOLOGY/Untitled Kanban.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/PRIONE.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/pirone.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Hypophyse.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Complexe Thyroïde et Parathyroïde.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Glande pinéale.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Généralités sur les glandes endocrines.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Surrénales hypothalamus hypophyse.md",
-    "Gonades indifférenciées.md",
-    "Excalidraw/Drawing 2024-01-08 22.40.34.excalidraw.md",
-    "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md",
-    "Excalidraw/Drawing 2024-01-04 15.35.21.excalidraw.md",
     "Excalidraw",
-    "First Year/S1/DASHBOARD/HOME.md",
-    "Second Year/Urinaire/Anatomie Urinaire/Les rein.md",
-    "Second Year/ENDOCRINOLOGY/Les testicule.md",
     "Second Year/ENDOCRINOLOGY",
-    "Les testicule.md",
-    "Excalidraw/Les testicule.excalidraw.md",
     "IMAGES/Pasted image 20231225135058.png",
     "IMAGES",
     "Endo",
-    "Excalidraw/Endo biochime 1.md",
     "Excalidraw/IMAGES/Pasted Image 20231224224047_696.png",
     "Excalidraw/IMAGES",
-    "Excalidraw/Drawing 2023-12-24 22.32.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-24 01.36.01.excalidraw.md",
     "Urinaire.canvas",
     "Second Year/Urinaire/Histologie Urinaire",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204164748.png",
@@ -224,12 +229,6 @@
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204164139.png",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163833.png",
     "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163559.png",
-    "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163034.png",
-    "Drawing 2023-12-03 22.16.46.excalidraw.md",
-    "Second Year/Urinaire/Anatomie Urinaire/IMAGES",
-    "First Year/S1/Med/ANATOMIE/GÉNÉRALITÉ/INTRODUCITON A L'OSTÉOLOGIE.md",
-    "Second Year/Urinaire/Anatomie Urinaire",
-    "First Year/S2/DASHBOARD/HOME.md",
-    "templates/DASHBOARD TEMPLATER.md"
+    "Second Year/Urinaire/Anatomie Urinaire/IMAGES/Pasted image 20231204163034.png"
   ]
 }
