@@ -11,14 +11,11 @@
             "id": "0d92ea4bcf74518c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
-                "viewState": {
-                  "x": 1037.0068107315117,
-                  "y": 635.0789638074671,
-                  "zoom": -0.8328890334161296
-                }
+                "file": "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -77,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+                "file": "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+                "file": "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas"
+                "file": "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md"
               }
             }
           },
@@ -187,8 +183,10 @@
   },
   "active": "0d92ea4bcf74518c",
   "lastOpenFiles": [
-    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Complexe Thyroïde et Parathyroïde.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
     "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Complexe Thyroïde et Parathyroïde.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Hypophyse.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Glande pinéale.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Généralités sur les glandes endocrines.md",
