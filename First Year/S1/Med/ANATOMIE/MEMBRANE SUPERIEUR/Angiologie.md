@@ -1,12 +1,12 @@
 ---
-
-Date created : 2023-01-28
-Date of last modefiction : Saturday 28th January 2023 21:09
-Module : ANATOMIE
-Cour : Angiologie
-Present dans le coure : NO
-Étudiée : NO
-tag: ANTOMIE
+Date created: 2023-01-28
+Date of last modefiction: Saturday 28th January 2023 21:09
+Module: ANATOMIE
+Cour: Angiologie
+Present dans le coure: NO
+Étudiée: NO
+tags:
+  - ANATOMIE
 CREATED: NO
 cards-deck: /::Angiologie
 ---

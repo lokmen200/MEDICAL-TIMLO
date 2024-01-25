@@ -7,8 +7,8 @@ Present dans le coure: YES
 Étudiée: YES
 tags:
   - SECONDYEAR
-  - ANTOMIE
   - ENDOCRINE
+  - ANATOMIE
 CREATED: YES
 QCM: SOLVED
 cards-deck: Second Year/ENDOCRINOLOGY/ANATOMIE::Surrénales hypothalamus hypophyse

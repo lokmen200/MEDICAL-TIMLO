@@ -1,11 +1,14 @@
 ---
-Date created : 2023-01-14
-Date of last modefiction : Saturday 14th January 2023 19:20
-Module : ANATOMIE
-Cour : MUSCLE DU L'AVANT BRAS
-Present dans le coure : YES
-Étudiée : NO
-tag: ANTOMIE MYOLOGIE MEMBRANE_SUPERIEUR
+Date created: 2023-01-14
+Date of last modefiction: Saturday 14th January 2023 19:20
+Module: ANATOMIE
+Cour: MUSCLE DU L'AVANT BRAS
+Present dans le coure: YES
+Étudiée: NO
+tags:
+  - MYOLOGIE
+  - MEMBRANE_SUPERIEUR
+  - ANATOMIE
 CREATED: YES
 cards-deck: ANATOMIE::MEMBRANE SUPERIEUR::MYOLOGIE::MUSCLE DU L'AVANT BRAS COURS
 ---
