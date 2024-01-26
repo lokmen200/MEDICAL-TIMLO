@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
-                "mode": "source",
+                "file": "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
+                "file": "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
+                "file": "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md"
+                "file": "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md"
               }
             }
           },
@@ -183,16 +184,24 @@
   },
   "active": "f10f4a3f65dc610c",
   "lastOpenFiles": [
-    "First Year/S1/Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LA SPERMATOGENESE.md",
+    "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/ARTICULATION/ARTICULATION DU COUDE.md",
+    "First Year/S1/Med/BIOCHIMIE/PROTÉINES/LES PROTIDES ET LES PROTÉINES - STRUCTURES ET PROPRIÉTÉS.md",
+    "First Year/S1/Med/BIOCHIMIE/PROTÉINES/LES ACIDES AMINÉ - STRUCTURES ET PROPRIÉTÉS.md",
+    "First Year/S1/Med/BIOCHIMIE/PROTÉINES/DÉTERMINATION DE LA STRUCTURE PRIMAIRE DES PROTÉINES.md",
+    "First Year/S1/Med/BIOCHIMIE/HELP BIOCHIMIE.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LES GLUCIDES STRUCTURE ET PROPRIÉTÉS.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LE CYCLE DE KREBS.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
+    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/GLYCOGÈNE.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Testicules et voies spermatiques.md",
+    "First Year/S1/Med/EMBRYOLOGIE/GÉNÉRALITÉ DU L'EMBRYOLOGIE/LA SPERMATOGENESE.md",
     "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/Angiologie.md",
     "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Surrénales hypothalamus hypophyse.md",
     "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Appareil génital mâle.md",
-    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA NEOGLUCOGENESE.md",
-    "First Year/S1/Med/BIOCHIMIE/LES GLUCIDES/LA GLYCOLYSE.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Complexe Thyroïde et Parathyroïde.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Hypophyse.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Glande pinéale.md",
@@ -204,14 +213,6 @@
     "First Year/S1/DASHBOARD/HOME.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/hello.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Untitled 3.md",
-    "Second Year/Urinaire/Anatomie Urinaire/Les rein.md",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/anatomie.md",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Untitled 2.md",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Untitled 1.md",
-    "Second Year/ENDOCRINOLOGY/hello.md",
-    "templates/MED TEMPLATER.md",
-    "templates/Untitled.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE",
     "Second Year/ENDOCRINOLOGY/ANATOMIE",
