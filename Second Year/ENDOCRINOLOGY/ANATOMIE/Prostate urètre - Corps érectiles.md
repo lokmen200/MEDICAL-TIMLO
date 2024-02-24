@@ -18,3 +18,4 @@ cards-deck: Second Year/ENDOCRINOLOGY/ANATOMIE::Prostate urètre - Corps érecti
 ```
 [[LA SPERMATOGENESE]]
 [[Appareil génital mâle]]
+le prostate est un gland endocirne de l'aparialle genitale masculine situe au desous de vessi constiter par 3 faces 2 bord et un sommet et apex le face dorsale est deviser en 2 portion par le crete verticale 
