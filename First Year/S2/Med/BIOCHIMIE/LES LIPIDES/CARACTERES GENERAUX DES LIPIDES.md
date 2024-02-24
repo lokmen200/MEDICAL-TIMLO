@@ -11,7 +11,8 @@ cards-deck: S2::Med::BIOCHIMIE::LES LIPIDES::CARACTERS GENERAUX DES LIPIDES
 ---
 ```toc
 ```
-# Caractéristiques générales des lipides 
+# Caractéristiques générales des lipides
+#card 
 - Les lipides sont des molécules organiques qui sont insolubles dans l'eau mais solubles dans les solvants organiques.
 - Ils ont une double origine :
 	- Une origine exogène ; c’est l’alimentation qui apporte environ 100 à 150 g de graisses par jour 
@@ -19,6 +20,7 @@ cards-deck: S2::Med::BIOCHIMIE::LES LIPIDES::CARACTERS GENERAUX DES LIPIDES
 - Les lipides ont des points communs métaboliques et structuraux. 
 	- <mark style="background: #FFF3A3A6;">Métabolique </mark>: Tous les lipides sont synthétisés à partir d'acétyl-CoA, qui est une unité de base commune pour la synthèse des lipides. 
 	- <mark style="background: #FFF3A3A6;">Structural</mark> : La molécule de lipide comporte au moins une chaîne aliphatique hydrocarbonée de 4 atomes de carbone
+
 # Transport 
 - Les lipides étant insolubles dans l'eau, ils doivent être transportés dans la circulation générale sous forme d'une <mark style="background: #FF5582A6;">association moléculaire lipidoprotéique solubles appelée lipoprotéines</mark> (c'est le cas pour les triglycérides, le cholestérol et les phospholipides) ou bien par <mark style="background: #FF5582A6;">l'albumine </mark>comme c'est le cas des acides gras libres
 - Les lipides vrais : résultent de la condensation d’acides gras avec des alcools en point structuales on peut le divise ont :
