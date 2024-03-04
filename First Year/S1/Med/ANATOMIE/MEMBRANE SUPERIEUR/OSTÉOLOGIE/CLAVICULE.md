@@ -60,7 +60,7 @@ Insertion du muscle [[deltoïde]] sur le 1⁄3 latéral et du muscle [[grand pec
 ###  l’épiphyse médiale ou sternale
 présente une facette articulaire triangulaire pour l’articulation sterno-costo-claviculaire qui unit la clavicule au sternum et au 1er cartilage costal.
 ### L’extrémité latérale ou acromiale
-présente une facette articulaire aplatie, pour l’articulation acromio-claviculaire qui unit la clavicule à [[SCAPULA#Supéro-latéral:|l’acromion]] de [[SCAPULA|Scapula]].
+présente une facette articulaire aplatie, pour l’articulation acromio-claviculaire qui unit la clavicule à [[SCAPULA#Supéro-latéral:|l’acromion]] de [[SCAPULA|Scapula]]. [[GLYCOGÈNE]]
 ^1667164049969
 
 ## Intérêt clinique

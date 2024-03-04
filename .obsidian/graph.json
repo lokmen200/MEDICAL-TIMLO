@@ -2,10 +2,10 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Med/ANATOMIE",
@@ -53,6 +53,6 @@
   "repelStrength": 11.0309278350515,
   "linkStrength": 0.891752577319588,
   "linkDistance": 204,
-  "scale": 0.21267058756633692,
+  "scale": 0.16513266757233208,
   "close": true
 }

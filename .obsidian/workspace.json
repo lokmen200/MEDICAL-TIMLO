@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "306497bd1946929f",
+        "id": "12a91172acca99d1",
         "type": "tabs",
         "children": [
           {
-            "id": "f10f4a3f65dc610c",
+            "id": "e23097bac235d9a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
-                "mode": "source",
-                "source": false
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
+                "viewState": {
+                  "x": -887.5498799520243,
+                  "y": -505.1274872703954,
+                  "zoom": -0.6966794300767399
+                }
               }
             }
           }
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md"
+                "file": "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas"
               }
             }
           },
@@ -182,8 +185,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f10f4a3f65dc610c",
+  "active": "e23097bac235d9a1",
   "lastOpenFiles": [
+    "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/CLAVICULE.md",
+    "First Year/S1/Med/Untitled.md",
+    "First Year/S1/Med/NOTS.md",
+    "First Year/S1/Med/NOTE STATS.md",
+    "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/sdsdffg.md",
+    "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/HUMÉRUS.md",
+    "digistive test.md",
+    "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
     "First Year/S2/Med/BIOCHIMIE/LES LIPIDES/CARACTERES GENERAUX DES LIPIDES.md",
     "Second Year/ENDOCRINOLOGY/ENDOCRINE PLANNING.canvas",
     "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/OSTÉOLOGIE/SCAPULA.md",
@@ -203,15 +214,7 @@
     "First Year/S1/Med/ANATOMIE/MEMBRANE SUPERIEUR/MYOLOGIE/MUSCLE DU L'AVANT BRAS.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Surrénales hypothalamus hypophyse.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE/Prostate urètre - Corps érectiles.md",
-    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Appareil génital mâle.md",
-    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Complexe Thyroïde et Parathyroïde.md",
-    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Hypophyse.md",
-    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Glande pinéale.md",
-    "Second Year/ENDOCRINOLOGY/HISTOLOGIE/Généralités sur les glandes endocrines.md",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE",
-    "Second Year/ENDOCRINOLOGY/ANATOMIE/Thyroïde Parathyroïdes.md",
-    "Second Year/ENDOCRINOLOGY/LECTEURS TRACKER.md",
-    "First Year/S1/Med/NOTE STATS.md",
     "Second Year/ENDOCRINOLOGY/ANATOMIE",
     "Second Year/ENDOCRINOLOGY/ANATOMIE",
     "Second Year/ENDOCRINOLOGY/HISTOLOGIE",
